@@ -10,3 +10,14 @@ _aka my post-ceremonial-agile processes_
 - Time-boxed effort, not deadlines.
 - Record *all* decisions (using ADRs, etc.)
 - Iterative product evolution :skateboard: :arrow_right: :kick_scooter: :arrow_right: :bike: :arrow_right: :motorcycle: :arrow_right: :car:
+
+```mermaid
+graph LR
+A[Square Rect] -- Link text --> B((Circle))
+A --> C(Round Rect)
+B --> D{Rhombus}
+C --> D
+```
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE3NTU2NjkxNjddfQ==
+-->
