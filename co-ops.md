@@ -11,4 +11,6 @@
 ## Example goals
 
 - Improve signal-to-noise ratios of our alerting.
-- Observeability: Getting the most out of ELK, Loki, Datadog, Grafana, Splunk, et al.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE4MzU1MTQ4NDddfQ==
+-->
