@@ -9,7 +9,7 @@ _aka my post-ceremonial-agile processes_
 - Prioritization, not estimation.
 - Time-boxed effort, not deadlines.
 - Record *all* decisions (using [ADRs](adrs), etc.)
-- Iterative product evolution :skateboard: :arrow_right: :kick_scooter: :arrow_right: :bike: :arrow_right: :motorcycle: :arrow_right: :car:
+- Iterative product evolution: 🛹 → 🛴 → 🚲 → 🏍 → 🚗
 
 ## Deep Thoughts
 
