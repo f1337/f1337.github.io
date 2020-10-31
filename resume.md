@@ -65,8 +65,9 @@ Experience
 - Applied security fixes for issues raised by pen-testing & static analysis tools.
 
 ### Senior Architect
-#### Panda Strike
-#### May 2016 - October 2018
+
+**Panda Strike**
+*May 2016 - October 2018*
 
 - Ruby on Rails application development: security & performance improvements, feature development, and bug squashing. Rails 3/4/5, MongoDB, PostgresSQL.
 - Serverless application development with AWS Lambda & Cloud Formation, and Web Components.
@@ -75,8 +76,8 @@ Experience
 - Various features and bug-fixes for Panda Strike's open source projects, including Fairmont, Haiku9, Panda-9000, Panda-Sky and more. CoffeeScript, Node.js, npm.
 
 ### Software Architect
-#### Amplifi Commerce
-##### October 2014 - March 2016
+**Amplifi Commerce**
+*October 2014 - March 2016*
 
 - Principal architect for an in-house, rapid-development platform for Oracle Commerce, which reduced the developer hours required for implementations by 50%.
 - Used linux containers (Docker) to isolate and scale each service in the Oracle Commerce application stack, both on bare metal and cloud servers.
@@ -89,8 +90,8 @@ Experience
 [![BOLT](http://resume.f1337.us/portfolio/BOLT.png "BOLT")](http://resume.f1337.us/portfolio/BOLT.pdf)
 
 ### Senior Software Engineer
-#### NCC Group Domain Services (née Artemis Internet)
-##### January 2014 - September 2014
+**NCC Group Domain Services (née Artemis Internet)**
+January 2014 - September 2014
 
 - Developed service-oriented APIs using Ruby on Rails (SOA architecture).
 - Implemented response pagination and API versioning using HTTP request headers.
@@ -138,3 +139,6 @@ Education
 ---------
 
 Mathematics, CIS at The Ohio State University
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTIwNDI2OTk5NTFdfQ==
+-->
