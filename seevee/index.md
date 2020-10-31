@@ -1,7 +1,7 @@
 ---
 title: Resume
 ---
-[Michael R. Fleet](http://resume.f1337.us/)
+Michael R. Fleet
 ===========================================
 
 - [github.com/f1337](https://github.com/f1337)
@@ -128,5 +128,5 @@ Education
 ---------
 Mathematics, CIS at The Ohio State University
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4MzU2NDYzNV19
+eyJoaXN0b3J5IjpbLTQ1NTI1NjM0OF19
 -->
