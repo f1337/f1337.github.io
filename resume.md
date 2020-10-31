@@ -130,9 +130,10 @@ Experience
 
 Patents
 -------
-[PCI DSS Compliant Proxy Service](http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/search-bool.html&r=1&f=G&l=50&d=PALL&RefSrch=yes&Query=PN/8886937). United States 8,886,937. Issued November 11, 2014.
+### [PCI DSS Compliant Proxy Service](http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/search-bool.html&r=1&f=G&l=50&d=PALL&RefSrch=yes&Query=PN/8886937)
+United States 8,886,937. Issued November 11, 2014.
 
-[System and Method of Enterprise and On-Line Franchise Models for E-Commerce Website](http://appft1.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PG01&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&s1=20080307034.PGNR.). United States 11/940,974. Filed November 15, 2007.
+### [System and Method of Enterprise and On-Line Franchise Models for E-Commerce Website](http://appft1.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PG01&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&s1=20080307034.PGNR.)United States 11/940,974. Filed November 15, 2007.
 
 [System and Method of Bridging a Product Catalog from a Central E-Commerce Website to Remote Access](http://appft1.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PG01&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&s1=20080306838.PGNR.). United States 11/940,947. Filed November 15, 2007.
 
@@ -140,5 +141,6 @@ Education
 ---------
 Mathematics, CIS at The Ohio State University
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODkyMDI1MzFdfQ==
+eyJoaXN0b3J5IjpbLTIwMzc0MTA2MDcsLTE5ODkyMDI1MzFdfQ
+==
 -->
