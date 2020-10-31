@@ -20,10 +20,11 @@ Specialties include:
 - Designing cross platform web application architectures for desktop, browsers, and native mobile.
 - Encouraging use of agile/XP practices, esp. BDD/TDD, code reviews, and pair/mob-programming.
 
-<skills>
 
 Expertise
 ---------
+
+<div class="inline-list">
 
 - Ruby
 - Rails
@@ -43,14 +44,17 @@ Expertise
 - PostgreSQL
 - MSSQL
 
-</skills>
+</div>
+
 
 Experience
 ----------
 
 ### LendingHome
-#### Staff Software Engineer
-##### October 2018 - May 2020
+
+**Staff Software Engineer**
+
+*October 2018 - May 2020*
 
 - Led the architecture, implementation, and delivery of LendingHome's first automated-underwriting solution. We used domain-driven-design principles and tools, including event-storming, in order to align business concepts and software.
 - Introduced structured logging, across multiple stacks.
