@@ -24,14 +24,7 @@ Specialties include:
 Expertise
 ---------
 
-<div class="inline-list">
-
-- Ruby
-- Rails
-- React
-- Node.js
-- HTTP APIs
-- AppSec
+Ruby, Rails, React, Node.js, HTTP APIs, web ap
 - TDD/BDD
 - Test Automation
 - Docker
@@ -44,9 +37,6 @@ Expertise
 - PostgreSQL
 - MSSQL
 
-</div>
-
-
 Experience
 ----------
 
@@ -56,13 +46,13 @@ Experience
 
 *October 2018 - May 2020*
 
-- Led the architecture, implementation, and delivery of LendingHome's first automated-underwriting solution. We used domain-driven-design principles and tools, including event-storming, in order to align business concepts and software.
+- Led the architecture, implementation, and delivery of LendingHome's first automated-underwriting solution.
 - Introduced structured logging, across multiple stacks.
-- My proposal for a focused production-support rotation was implemented, improving the feedback loop with customers.
-- Created rapid-development/testing tools, including code generators, automated and manual testing helpers, and event-sourcing data migrations.
-- Led Rails upgrades from 4.x to latest 5.x, across multiple stacks.
+- Championed changes to the production-support rotation which improved our feedback loop with customers.
+- Created rapid-development & testing tools, including code generators, automated and manual testing helpers, and event-sourcing data migrations.
+- Led Rails upgrades from 4.x to 5.x, across multiple stacks.
 - Contributed to Ruby 2.5 upgrades, across multiple stacks.
-- Applied security fixes for issues raised by pen-testing & static analysis tools.
+- Fixed application security issues raised by pen testers.
 
 ### Panda Strike
 
@@ -149,5 +139,6 @@ Education
 ---------
 Mathematics, CIS at The Ohio State University
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1NjkxMTA3LC0xOTg5MjAyNTMxXX0=
+eyJoaXN0b3J5IjpbMTcwNjQxMTA4OCwyMDU2OTExMDcsLTE5OD
+kyMDI1MzFdfQ==
 -->
