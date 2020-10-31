@@ -1,3 +1,0 @@
-# Resume
-
-{% include list.liquid %}
