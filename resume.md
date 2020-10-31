@@ -24,18 +24,7 @@ Specialties include:
 Expertise
 ---------
 
-Ruby, Rails, React, Node.js, HTTP APIs, web ap
-- TDD/BDD
-- Test Automation
-- Docker
-- AWS
-- Objective-C
-- Groovy
-- Apache
-- Nginx
-- MySQL
-- PostgreSQL
-- MSSQL
+Ruby, Rails, React, Node.js, HTTP APIs, web application security, TDD/BDD, test automation, Docker, Objective-C, Apache, Nginx, MySQL, PostgreSQL, MSSQL
 
 Experience
 ----------
@@ -139,6 +128,6 @@ Education
 ---------
 Mathematics, CIS at The Ohio State University
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwNjQxMTA4OCwyMDU2OTExMDcsLTE5OD
+eyJoaXN0b3J5IjpbMTI4MzU2NDYzNSwyMDU2OTExMDcsLTE5OD
 kyMDI1MzFdfQ==
 -->
