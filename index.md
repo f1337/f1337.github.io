@@ -1,18 +1,9 @@
 # hello, whirrled
 
-## My "Way of Working"
-
-_aka my post-ceremonial-agile processes_
-
-- **All** work is shown on the board.
-- Daily huddles are re-planning meetings, not status meetings.
-- Prioritization, not estimation.
-- Time-boxed effort, not deadlines.
-- Record *all* decisions (using [ADRs](adrs.md), etc.)
-- Iterative product evolution: :ice_skate: :arrow_right: :kick_scooter: :arrow_right: :bike: :arrow_right: :motorcycle: :arrow_right: :car:
+{% include list.liquid %}
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzgxOTA0OTUsLTM3MzUxODE3NywtMT
-E1NTQ1NDksLTEyNjczMDc4NTVdfQ==
+eyJoaXN0b3J5IjpbMjQyNjU4ODk0LC0zNzM1MTgxNzcsLTExNT
+U0NTQ5LC0xMjY3MzA3ODU1XX0=
 -->
