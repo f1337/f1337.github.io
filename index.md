@@ -11,21 +11,8 @@ _aka my post-ceremonial-agile processes_
 - Record *all* decisions (using [ADRs](adrs.md), etc.)
 - Iterative product evolution: :ice_skate: :arrow_right: :kick_scooter: :arrow_right: :bike: :arrow_right: :motorcycle: :arrow_right: :car:
 
-## Scratchpad
-
-### Documenting decisions
-
-- [Architectural Decision Records (ADRs)](adrs.md)
-- [Idea Documents](idea-documents.md)
-- Design Documents
-- Requests for Comments (RFCs)
-- [Which document to use when](flowchart.md)
-
-### Other thoughts
-
-- [Co-ops](co-ops.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3MzUxODE3NywtMTE1NTQ1NDksLTEyNj
-czMDc4NTVdfQ==
+eyJoaXN0b3J5IjpbLTE1MzgxOTA0OTUsLTM3MzUxODE3NywtMT
+E1NTQ1NDksLTEyNjczMDc4NTVdfQ==
 -->
