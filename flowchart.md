@@ -2,12 +2,10 @@
 
 ```mermaid
 graph LR
-A{Is there a problem}
-A[Square Rect] -- Link text --> B((Circle))
-A --> C(Round Rect)
-B --> D{Rhombus}
-C --> D
+A{Is there a problem?} -- No --> B[Celebrate!]
+A -- Yes --> C{Is there an existing or favored solution?}
+
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDc5OTkwOTBdfQ==
+eyJoaXN0b3J5IjpbLTE4NTY2OTE1Nl19
 -->
