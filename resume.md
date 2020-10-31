@@ -67,6 +67,7 @@ Experience
 ### Senior Architect
 
 **Panda Strike**
+
 *May 2016 - October 2018*
 
 - Ruby on Rails application development: security & performance improvements, feature development, and bug squashing. Rails 3/4/5, MongoDB, PostgresSQL.
@@ -77,6 +78,7 @@ Experience
 
 ### Software Architect
 **Amplifi Commerce**
+
 *October 2014 - March 2016*
 
 - Principal architect for an in-house, rapid-development platform for Oracle Commerce, which reduced the developer hours required for implementations by 50%.
@@ -91,6 +93,7 @@ Experience
 
 ### Senior Software Engineer
 **NCC Group Domain Services (née Artemis Internet)**
+
 *January 2014 - September 2014*
 
 - Developed service-oriented APIs using Ruby on Rails (SOA architecture).
@@ -99,6 +102,7 @@ Experience
 
 ### Senior Software Engineer
 **Lookout**
+
 *August 2013 - January 2014*
 
 - Invented an automated, external, hardware testing framework for detecting whether a device in a test lab made an audible sound.
@@ -107,6 +111,7 @@ Experience
 
 ### Architect Lead, Mobile Emerging Technologies
 **JPMorgan Chase & Co.**
+
 *April 2011 - June 2013*
 
 - Developed a cross-platform data visualization library using C/C++, with native interfaces for iOS (Objective-C) and Android (NDK, Java/JNI).
@@ -117,6 +122,7 @@ Experience
 
 ### Application Architect
 **Resource Interactive (now IBM iX)**
+
 *March 2010 - April 2011*
 
 - Led development of Resource's Distributed Commerce Platform (formerly known as "Off the Wall") from prototype to patented product platform.
@@ -143,5 +149,5 @@ Education
 ---------
 Mathematics, CIS at The Ohio State University
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5MDA2ODg2NywtMTk4OTIwMjUzMV19
+eyJoaXN0b3J5IjpbNjY2MjIxNDM3LC0xOTg5MjAyNTMxXX0=
 -->
