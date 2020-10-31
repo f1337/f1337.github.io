@@ -1,7 +1,7 @@
 # # ADRs, Idea Docs, RFCs, Design Docs, Oh My!
 
 ```mermaid
-graph LR
+graph TD
 A{Is there a problem?} -- No --> B[Celebrate!]
 A -- Yes --> C{Is there an existing or favored solution?}
 C -- Yes --> D{Is it documented?}
@@ -20,5 +20,5 @@ L -- No --> I
 L -- Yes --> M[Write a design document]
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0ODU1MDU0MCwtMTYxMjc5NjE2NV19
+eyJoaXN0b3J5IjpbMTgxNjcyMjY3OCwtMTYxMjc5NjE2NV19
 -->
