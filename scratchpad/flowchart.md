@@ -2,7 +2,6 @@
 
 ```mermaid
 graph TD
-START(start) 
 PROBLEM{Is there a problem?} -- No --> CELEB[Celebrate!]
 PROBLEM -- Yes --> ISSOLVED{Is there an existing or favored solution?}
 ISSOLVED -- Yes --> DOC{Is it documented?}
@@ -21,6 +20,6 @@ ISBIGTOO -- No --> ADR
 ISBIGTOO -- Yes --> DD[Write a design document]
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc5OTc5MTUsMzg3OTg3ODAxLDE4MTY3Mj
-I2NzgsLTE2MTI3OTYxNjVdfQ==
+eyJoaXN0b3J5IjpbLTEzNDAxNzM3MzgsMzg3OTg3ODAxLDE4MT
+Y3MjI2NzgsLTE2MTI3OTYxNjVdfQ==
 -->
