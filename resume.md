@@ -64,9 +64,9 @@ Experience
 - Contributed to Ruby 2.5 upgrades, across multiple stacks.
 - Applied security fixes for issues raised by pen-testing & static analysis tools.
 
-### Senior Architect
+### Panda Strike
 
-**Panda Strike**
+**Senior Architect**
 
 *May 2016 - October 2018*
 
@@ -76,8 +76,8 @@ Experience
 - Docker-ized all the development environments: Rails, Node.js, PostgresSQL, MongoDB, Nginx, etc.
 - Various features and bug-fixes for Panda Strike's open source projects, including Fairmont, Haiku9, Panda-9000, Panda-Sky and more. CoffeeScript, Node.js, npm.
 
-### Software Architect
-**Amplifi Commerce**
+### Amplifi Commerce
+**Software Architect**
 
 *October 2014 - March 2016*
 
@@ -91,8 +91,8 @@ Experience
 
 [![BOLT](http://resume.f1337.us/portfolio/BOLT.png "BOLT")](http://resume.f1337.us/portfolio/BOLT.pdf)
 
-### Senior Software Engineer
-**NCC Group Domain Services (née Artemis Internet)**
+### NCC Group Domain Services (née Artemis Internet)
+**Senior Software Engineer**
 
 *January 2014 - September 2014*
 
@@ -100,8 +100,8 @@ Experience
 - Implemented response pagination and API versioning using HTTP request headers.
 - Encouraged adoption of regular, frequent releases.
 
-### Senior Software Engineer
-**Lookout**
+### 
+**Senior Software EngineerLookout**
 
 *August 2013 - January 2014*
 
@@ -149,5 +149,5 @@ Education
 ---------
 Mathematics, CIS at The Ohio State University
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY2MjIxNDM3LC0xOTg5MjAyNTMxXX0=
+eyJoaXN0b3J5IjpbLTY1ODA4MTE1NSwtMTk4OTIwMjUzMV19
 -->
