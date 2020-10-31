@@ -1,3 +1,6 @@
+---
+title: Resume
+---
 [Michael R. Fleet](http://resume.f1337.us/)
 ===========================================
 
@@ -17,10 +20,10 @@ Specialties include:
 - Designing cross platform web application architectures for desktop, browsers, and native mobile.
 - Encouraging use of agile/XP practices, esp. BDD/TDD, code reviews, and pair/mob-programming.
 
+<skills>
+
 Expertise
 ---------
-
-<skills>
 
 - Ruby
 - Rails
