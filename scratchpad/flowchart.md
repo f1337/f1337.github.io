@@ -2,8 +2,8 @@
 
 ```mermaid
 graph TD
-A{Is there a problem?} -- No --> CELEB[Celebrate!]
-A -- Yes --> SOLVED{Is there an existing or favored solution?}
+PROBLEM{Is there a problem?} -- No --> CELEB[Celebrate!]
+PROBLEM -- Yes --> SOLVED{Is there an existing or favored solution?}
 SOLVED -- Yes --> DOC{Is it documented?}
 DOC -- Yes --> CELEB
 SOLVED -- No --> KNOWN{Do we know a solution?}
@@ -14,12 +14,12 @@ KNOWN -- Yes --> BIG
 BIG -- No --> ADR[Write an ADR]
 DOC -- No --> ADR
 BIG -- Yes --> RFC[Write an RFC]
-RFC --> K{Did the RFC result in a solution?}
-K -- Yes --> L{Is it still a big change?}
-L -- No --> ADR
-L -- Yes --> DD[Write a design document]
+RFC --> RFCSOLVE{Did the RFC result in a solution?}
+RFCSOLVE -- Yes --> BIGTOO{Is it still a big change?}
+BIGTOO -- No --> ADR
+BIGTOO -- Yes --> DD[Write a design document]
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzYxMzYwMjgsMzg3OTg3ODAxLDE4MT
-Y3MjI2NzgsLTE2MTI3OTYxNjVdfQ==
+eyJoaXN0b3J5IjpbMTE4OTcyMDIzMiwzODc5ODc4MDEsMTgxNj
+cyMjY3OCwtMTYxMjc5NjE2NV19
 -->
