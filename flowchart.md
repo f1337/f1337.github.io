@@ -1,4 +1,4 @@
-# # ADRs, Idea Docs, RFCs, Design Docs, Oh My!
+# ADRs, Idea Docs, RFCs, Design Docs, Oh My!
 
 ```mermaid
 graph TD
@@ -20,5 +20,6 @@ L -- No --> I
 L -- Yes --> M[Write a design document]
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNjcyMjY3OCwtMTYxMjc5NjE2NV19
+eyJoaXN0b3J5IjpbMzg3OTg3ODAxLDE4MTY3MjI2NzgsLTE2MT
+I3OTYxNjVdfQ==
 -->
