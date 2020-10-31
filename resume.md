@@ -100,8 +100,8 @@ Experience
 - Implemented response pagination and API versioning using HTTP request headers.
 - Encouraged adoption of regular, frequent releases.
 
-### 
-**Senior Software EngineerLookout**
+### Lookout
+**Senior Software Engineer**
 
 *August 2013 - January 2014*
 
@@ -109,8 +109,8 @@ Experience
 - Led iOS application-security efforts.
 - Implemented SSL-certificate pinning for iPhone and iPad apps.
 
-### Architect Lead, Mobile Emerging Technologies
-**JPMorgan Chase & Co.**
+### JPMorgan Chase & Co.
+**Architect Lead, Mobile Emerging Technologies**
 
 *April 2011 - June 2013*
 
@@ -120,8 +120,8 @@ Experience
 - Key contributor to the Chase and J.P. Morgan iOS, Android and mobile web banking applications.
 - Certified Mobile Application Security Champion.
 
-### Application Architect
-**Resource Interactive (now IBM iX)**
+### Resource Interactive (now IBM iX)
+**Application Architect**
 
 *March 2010 - April 2011*
 
@@ -149,5 +149,5 @@ Education
 ---------
 Mathematics, CIS at The Ohio State University
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1ODA4MTE1NSwtMTk4OTIwMjUzMV19
+eyJoaXN0b3J5IjpbMjA1NjkxMTA3LC0xOTg5MjAyNTMxXX0=
 -->
