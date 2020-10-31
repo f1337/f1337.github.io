@@ -91,23 +91,23 @@ Experience
 
 ### Senior Software Engineer
 **NCC Group Domain Services (née Artemis Internet)**
-January 2014 - September 2014
+*January 2014 - September 2014*
 
 - Developed service-oriented APIs using Ruby on Rails (SOA architecture).
 - Implemented response pagination and API versioning using HTTP request headers.
 - Encouraged adoption of regular, frequent releases.
 
 ### Senior Software Engineer
-#### Lookout
-##### August 2013 - January 2014
+**Lookout**
+*August 2013 - January 2014*
 
 - Invented an automated, external, hardware testing framework for detecting whether a device in a test lab made an audible sound.
 - Led iOS application-security efforts.
 - Implemented SSL-certificate pinning for iPhone and iPad apps.
 
 ### Architect Lead, Mobile Emerging Technologies
-#### JPMorgan Chase & Co.
-##### April 2011 - June 2013
+**JPMorgan Chase & Co.**
+*April 2011 - June 2013*
 
 - Developed a cross-platform data visualization library using C/C++, with native interfaces for iOS (Objective-C) and Android (NDK, Java/JNI).
 - Designed a declarative user-interface architecture for producing native user experiences with the flexibility of web applications to deliver immediate updates and dynamic experiences.
@@ -116,8 +116,8 @@ January 2014 - September 2014
 - Certified Mobile Application Security Champion.
 
 ### Application Architect
-#### Resource Interactive (now IBM iX)
-##### March 2010 - April 2011
+**Resource Interactive (now IBM iX)**
+*March 2010 - April 2011*
 
 - Led development of Resource's Distributed Commerce Platform (formerly known as "Off the Wall") from prototype to patented product platform.
 - Created DCP's high-performance, PCI/DSS-Level-1-compliant session proxying API and architecture built on CentOS, Apache, Zend Framework and MySQL.
@@ -130,15 +130,15 @@ January 2014 - September 2014
 
 Patents
 -------
+[PCI DSS Compliant Proxy Service](http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/search-bool.html&r=1&f=G&l=50&d=PALL&RefSrch=yes&Query=PN/8886937). United States 8,886,937. Issued November 11, 2014.
 
-- [PCI DSS Compliant Proxy Service](http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/search-bool.html&r=1&f=G&l=50&d=PALL&RefSrch=yes&Query=PN/8886937). United States 8,886,937. Issued November 11, 2014.
-- [System and Method of Enterprise and On-Line Franchise Models for E-Commerce Website](http://appft1.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PG01&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&s1=20080307034.PGNR.). United States 11/940,974. Filed November 15, 2007.
-- [System and Method of Bridging a Product Catalog from a Central E-Commerce Website to Remote Access](http://appft1.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PG01&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&s1=20080306838.PGNR.). United States 11/940,947. Filed November 15, 2007.
+[System and Method of Enterprise and On-Line Franchise Models for E-Commerce Website](http://appft1.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PG01&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&s1=20080307034.PGNR.). United States 11/940,974. Filed November 15, 2007.
+
+[System and Method of Bridging a Product Catalog from a Central E-Commerce Website to Remote Access](http://appft1.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PG01&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&s1=20080306838.PGNR.). United States 11/940,947. Filed November 15, 2007.
 
 Education
 ---------
-
 Mathematics, CIS at The Ohio State University
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDI2OTk5NTFdfQ==
+eyJoaXN0b3J5IjpbLTE5ODkyMDI1MzFdfQ==
 -->
