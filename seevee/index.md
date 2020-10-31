@@ -12,7 +12,7 @@ Summary
 
 I am a software & systems engineer, polyglot, polymath, lifelong learner, published musician, and patented inventor. I have extensive professional experience developing products & services for startups, agencies, and F500 companies.
 
-Specialties include:
+My specialties include:
 
 - Rapid mastery of new computer languages, tools, processes, and stacks.
 - Improving application security without destroying usability.
@@ -128,5 +128,5 @@ Education
 ---------
 Mathematics, CIS at The Ohio State University
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NTI1NjM0OF19
+eyJoaXN0b3J5IjpbMjk0MzYxNTQ2XX0=
 -->
