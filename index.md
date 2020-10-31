@@ -17,13 +17,7 @@ _aka my post-ceremonial-agile processes_
 - [Idea Documents](idea-documents.md)
 - [Co-ops](co-ops.md)
 
-```mermaid
-graph LR
-A[Square Rect] -- Link text --> B((Circle))
-A --> C(Round Rect)
-B --> D{Rhombus}
-C --> D
-```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTU0NTQ5LC0xMjY3MzA3ODU1XX0=
+eyJoaXN0b3J5IjpbLTM3MzUxODE3NywtMTE1NTQ1NDksLTEyNj
+czMDc4NTVdfQ==
 -->
