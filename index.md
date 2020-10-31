@@ -9,12 +9,20 @@ _aka my post-ceremonial-agile processes_
 - Prioritization, not estimation.
 - Time-boxed effort, not deadlines.
 - Record *all* decisions (using [ADRs](adrs.md), etc.)
-- Iterative product evolution: 🛹 → 🛴 → 🚲 → 🏍 → 🚗
+- Iterative product evolution: 🛹 → 🛴 → 🚲 → 🏍 → 🚗 :car:
 
-## Deep Thoughts
+## Scratchpad
 
-- [Architectural Decision Records](adrs.md)
+### Documenting decisions
+
+- [Architectural Decision Records (ADRs)](adrs.md)
 - [Idea Documents](idea-documents.md)
+- Design Documents
+- Requests for Comments (RFCs)
+- [Which document to use when](flowchart.md)
+
+### Other thoughts
+
 - [Co-ops](co-ops.md)
 
 <!--stackedit_data:
