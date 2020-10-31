@@ -9,10 +9,12 @@ D -- Yes --> B
 C -- No --> E{Do we know a solution?}
 E -- No --> F[Write an idea document]
 F --> G[Research or test ideas]
-
-E -- Yes --> H{Does it involve big changes?}
+G --> H{Does it involve big changes?}
+E -- Yes --> H
+H -- No --> I[Write an ADR]
+D -- No --> I
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5NTE4NjMzM119
+eyJoaXN0b3J5IjpbLTE2MTI3OTYxNjVdfQ==
 -->
