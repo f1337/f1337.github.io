@@ -19,7 +19,7 @@ My specialties include:
 - Engineering high-performance, high-availability systems architectures for scaling web applications.
 - Designing cross platform web application architectures for desktop, browsers, and native mobile.
 - Encouraging use of agile/XP practices, esp. BDD/TDD, code reviews, and pair/mob-programming.
-- Building and mentoring empathetic teams.
+- Building and nurturing environments which encourage innovation.
 
 
 Expertise
@@ -129,5 +129,5 @@ Education
 ---------
 Mathematics, CIS at The Ohio State University
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjYzNjg3M119
+eyJoaXN0b3J5IjpbLTMyMzU3NjE2N119
 -->
