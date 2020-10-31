@@ -16,9 +16,9 @@ D -- No --> I
 H -- Yes --> J[Write an RFC]
 J --> K{Did the RFC result in a solution?}
 K -- Yes --> L{Is it still a big change?}
-L 
-
+L -- No --> I
+L -- Yes --> M[Write a design document]
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4MDg4NDIyMSwtMTYxMjc5NjE2NV19
+eyJoaXN0b3J5IjpbMTk0ODU1MDU0MCwtMTYxMjc5NjE2NV19
 -->
