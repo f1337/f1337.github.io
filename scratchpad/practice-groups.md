@@ -2,18 +2,18 @@
 
 ## Attributes
 
-- A volunteer, [cooperative effort](https://en.wikipedia.org/wiki/Cooperative) to accomplish a specific goal.
+- A volunteer, [cooperative effort](https://en.wikipedia.org/wiki/Cooperative) to align and share specialized expertise.
 - Cr
 - Ephemeral by nature, and design. Some may be long-lasting, some may be very short lived.
-- Cross-team, but specialized .
+- Cross-team, but discipline-specific: Security, 
 - Not guilds. The word guild is overloaded with ancient connotations. Also we're not cargo-culting.
 - Co-ops may do the work to accomplish a goal themselves (as time/commitments permit), and/or propose projects to leadership for prioritization.
 
-## Example goals
+## Examples
 
-- Improve signal-to-noise ratios of our alerting.
-- 
+- Security
+- Ruby/Rails/
 Like Spotify’s “channels”, only not a silly name that gives zero hint to newbies. I have opinions.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2OTM4MDc0OF19
+eyJoaXN0b3J5IjpbMTAwMjgyNzc5Ml19
 -->
