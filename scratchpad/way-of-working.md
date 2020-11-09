@@ -19,19 +19,22 @@ _aka my post-ceremonial-agile processes_
 - [Focus on the work, not the workers](https://www.marcusoft.net/2017/02/comments-on-board-practices-6.html).
 - Record *all* decisions (using [ADRs](adrs.md), etc.)
 
-## Formal planning meetings
+## Product/iteration planning meetings
 
+- Iterative product evolution: :ice_skate: :arrow_right: :kick_scooter: :arrow_right: :bike: :arrow_right: :motorcycle: :arrow_right: :car:
 - Prioritization, not estimation. The best estimates are still only bets.
 - Time-boxed effort, not deadlines. How much time are we willing to spend/risk?
 - Record *all* decisions (using [ADRs](adrs.md), etc.)
-- Iterative product evolution: :ice_skate: :arrow_right: :kick_scooter: :arrow_right: :bike: :arrow_right: :motorcycle: :arrow_right: :car:
-- Team Leads have 1:1s biweekly with teammates  
+
+## Other meetings
+
+- Team Leads have 1:1s with each teammate, biweekly.
 - Team Leads lead a weekly team meeting, with engineers and Product Managers as stakeholders (PMs lead when TL is out)  
 - formal product planning happens monthly  
 - ad-hoc product replanning is welcome, but must be documented and reviewed at next formal planning meeting  
 - all decisions are documented in a single, searchable location
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5NjQyNjIyNSw3NzY0MTUyNzIsLTIxMj
+eyJoaXN0b3J5IjpbMTI4NzA0NTI4NSw3NzY0MTUyNzIsLTIxMj
 IzMDgwMjMsLTQyNjE0OTQ4NSwtOTE1ODYyMzM0LDE4MjI5MjQ4
 MzRdfQ==
 -->
