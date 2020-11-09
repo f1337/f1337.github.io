@@ -36,7 +36,7 @@ Experience
 
 *June 2020 - present*
 
-Myself and 4 othe
+I am the engineering lead for 70+ engineers, designers, product managers, testers,
 
 ### LendingHome
 
@@ -137,5 +137,5 @@ Education
 ---------
 Mathematics, CIS at The Ohio State University
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU5ODkxMjc4LC0zMjM1NzYxNjddfQ==
+eyJoaXN0b3J5IjpbLTE3NDU2OTA4MCwtMzIzNTc2MTY3XX0=
 -->
