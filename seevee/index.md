@@ -30,6 +30,14 @@ Ruby, Rails, React, Node.js, HTTP APIs, web application security, TDD/BDD, test 
 Experience
 ----------
 
+### Oddball
+
+**Lead Engineer, Veterans Services Platform, va.gov**
+
+*June 2020 - present*
+
+Myself and 4 othe
+
 ### LendingHome
 
 **Staff Software Engineer**
@@ -129,5 +137,5 @@ Education
 ---------
 Mathematics, CIS at The Ohio State University
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMzU3NjE2N119
+eyJoaXN0b3J5IjpbNDU5ODkxMjc4LC0zMjM1NzYxNjddfQ==
 -->
