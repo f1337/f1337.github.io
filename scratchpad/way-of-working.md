@@ -12,11 +12,15 @@ _aka my post-ceremonial-agile processes_
 - [Use WIP limits](https://www.marcusoft.net/2017/02/comments-on-board-practices-5.html).
 - [Use colors, wisely](https://www.marcusoft.net/2017/02/comments-on-board-practices-4.html).
 
-## Daily re-planning
-
-## Planning cadence
+## Daily re-planning huddles
 
 - Daily huddles are re-planning meetings, not status meetings.
+- 
+- [Focus on the work, not the workers](https://www.marcusoft.net/2017/02/comments-on-board-practices-6.html).
+
+## Formal planning meetings
+
+
 - Prioritization, not estimation.
 - Time-boxed effort, not deadlines.
 - Record *all* decisions (using [ADRs](adrs.md), etc.)
@@ -28,7 +32,7 @@ _aka my post-ceremonial-agile processes_
 - ad-hoc product replanning is welcome, but must be documented and reviewed at next formal planning meeting  
 - all decisions are documented in a single, searchable location
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzAwNDM3ODAsNzc2NDE1MjcyLC0yMT
-IyMzA4MDIzLC00MjYxNDk0ODUsLTkxNTg2MjMzNCwxODIyOTI0
-ODM0XX0=
+eyJoaXN0b3J5IjpbMzgzMjA3NjgsNzc2NDE1MjcyLC0yMTIyMz
+A4MDIzLC00MjYxNDk0ODUsLTkxNTg2MjMzNCwxODIyOTI0ODM0
+XX0=
 -->
