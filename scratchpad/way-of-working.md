@@ -21,10 +21,12 @@ _aka my post-ceremonial-agile processes_
 
 ## Product/iteration planning meetings
 
-- Iterative product evolution: :ice_skate: :arrow_right: :kick_scooter: :arrow_right: :bike: :arrow_right: :motorcycle: :arrow_right: :car:
+- Monthly formal product/iteration planning, to adjust priorities and workstreams. This is where big goalpost moves can happen.
+- Review ad-hoc re-pla
 - Prioritization, not estimation. The best estimates are still only bets.
 - Time-boxed effort, not deadlines. How much time are we willing to spend/risk?
 - Record *all* decisions (using [ADRs](adrs.md), etc.)
+- Iterative product evolution: :ice_skate: :arrow_right: :kick_scooter: :arrow_right: :bike: :arrow_right: :motorcycle: :arrow_right: :car:
 
 ## Other meetings
 
@@ -37,7 +39,7 @@ _aka my post-ceremonial-agile processes_
 - ad-hoc product replanning is welcome, but must be documented and reviewed at next formal planning meeting  
 - all decisions are documented in a single, searchable location
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3NjM0MzE4Nyw3NzY0MTUyNzIsLTIxMj
+eyJoaXN0b3J5IjpbMTkxMjMwNTE2MSw3NzY0MTUyNzIsLTIxMj
 IzMDgwMjMsLTQyNjE0OTQ4NSwtOTE1ODYyMzM0LDE4MjI5MjQ4
 MzRdfQ==
 -->
