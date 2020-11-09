@@ -5,7 +5,9 @@ _aka my post-ceremonial-agile processes_
 
 - **All** work is be visualized on the board. There is no such thing as work "outside the scope of the iteration/project/team".
 - [Blocked is not a column](https://www.marcusoft.net/2017/02/comments-on-board-practices.html).
-- 
+- Columns reflect the workflow.
+	- [Todo/Doing/Done is not your process](https://www.marcusoft.net/2017/02/comments-on-board-practices-2.html).
+- [Done is not a column](https://www.marcusoft.net/2017/02/comments-on-board-practices-3.html).
 - Work the board from right to left. 
 - 
 
@@ -23,7 +25,7 @@ _aka my post-ceremonial-agile processes_
 - ad-hoc product replanning is welcome, but must be documented and reviewed at next formal planning meeting  
 - all decisions are documented in a single, searchable location
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1NzIyMjg3Niw3NzY0MTUyNzIsLTIxMj
-IzMDgwMjMsLTQyNjE0OTQ4NSwtOTE1ODYyMzM0LDE4MjI5MjQ4
-MzRdfQ==
+eyJoaXN0b3J5IjpbODA2NjQxODQxLDc3NjQxNTI3MiwtMjEyMj
+MwODAyMywtNDI2MTQ5NDg1LC05MTU4NjIzMzQsMTgyMjkyNDgz
+NF19
 -->
