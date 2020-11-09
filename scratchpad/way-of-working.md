@@ -14,14 +14,13 @@ _aka my post-ceremonial-agile processes_
 ## Daily re-planning huddles
 
 - Daily huddles are re-planning meetings, not status meetings.
-- [Work the board from right to left](https://www.marcusoft.net/2017/03/comments-on-board-practices-7.html), with the team focusing on h
+- [Work the board from right to left](https://www.marcusoft.net/2017/03/comments-on-board-practices-7.html). Ask ourselves "what work we can ship today?"
 - [Focus on the work, not the workers](https://www.marcusoft.net/2017/02/comments-on-board-practices-6.html).
 
 ## Formal planning meetings
 
-
-- Prioritization, not estimation.
-- Time-boxed effort, not deadlines.
+- Prioritization, not estimation. The best estimates are still only bets.
+- Time-boxed effort, not deadlines. How much time are wi
 - Record *all* decisions (using [ADRs](adrs.md), etc.)
 - Iterative product evolution: :ice_skate: :arrow_right: :kick_scooter: :arrow_right: :bike: :arrow_right: :motorcycle: :arrow_right: :car:
 - Team Leads have 1:1s biweekly with teammates  
@@ -31,7 +30,7 @@ _aka my post-ceremonial-agile processes_
 - ad-hoc product replanning is welcome, but must be documented and reviewed at next formal planning meeting  
 - all decisions are documented in a single, searchable location
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3NDI0OTA5Nyw3NzY0MTUyNzIsLTIxMj
+eyJoaXN0b3J5IjpbMTg0NzI0MTQ1NCw3NzY0MTUyNzIsLTIxMj
 IzMDgwMjMsLTQyNjE0OTQ4NSwtOTE1ODYyMzM0LDE4MjI5MjQ4
 MzRdfQ==
 -->
