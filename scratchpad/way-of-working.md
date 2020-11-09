@@ -29,12 +29,15 @@ _aka my post-ceremonial-agile processes_
 ## Other meetings
 
 - Team Leads have 1:1s with each teammate, biweekly.
-- Team Leads lead a weekly team meeting, with engineers and Product Managers as stakeholders (PMs lead when TL is out)  
+- Team Leads lead a weekly team feedback meeting, with engineers and Product Managers as stakeholders (PMs lead when TL is out).
+	- Do we want to adjust any processes?
+	- Are there any team-wide issues?
+	- Discuss any personnel changes.
 - formal product planning happens monthly  
 - ad-hoc product replanning is welcome, but must be documented and reviewed at next formal planning meeting  
 - all decisions are documented in a single, searchable location
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NzA0NTI4NSw3NzY0MTUyNzIsLTIxMj
+eyJoaXN0b3J5IjpbLTk3NjM0MzE4Nyw3NzY0MTUyNzIsLTIxMj
 IzMDgwMjMsLTQyNjE0OTQ4NSwtOTE1ODYyMzM0LDE4MjI5MjQ4
 MzRdfQ==
 -->
