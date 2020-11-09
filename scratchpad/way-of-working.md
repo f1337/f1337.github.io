@@ -4,6 +4,7 @@ _aka my post-ceremonial-agile processes_
 ## Board practices
 
 - **All** work must be shown on the board. There is no such thing as work "outside the scope of the <iteration/team>".
+- Work the board from right to left: Prioritize 
 - 
 
 ## Planning cadence
@@ -20,6 +21,6 @@ _aka my post-ceremonial-agile processes_
 - ad-hoc product replanning is welcome, but must be documented and reviewed at next formal planning meeting  
 - all decisions are documented in a single, searchable location
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyNjE0OTQ4NSwtOTE1ODYyMzM0LDE4Mj
-I5MjQ4MzRdfQ==
+eyJoaXN0b3J5IjpbLTIxMjIzMDgwMjMsLTQyNjE0OTQ4NSwtOT
+E1ODYyMzM0LDE4MjI5MjQ4MzRdfQ==
 -->
