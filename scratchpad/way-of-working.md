@@ -1,7 +1,12 @@
 # My "Way of Working"
 _aka my post-ceremonial-agile processes_
 
+## Board practices
+
 - **All** work is shown on the board.
+
+## Planning cadence
+
 - Daily huddles are re-planning meetings, not status meetings.
 - Prioritization, not estimation.
 - Time-boxed effort, not deadlines.
@@ -14,5 +19,5 @@ _aka my post-ceremonial-agile processes_
 - ad-hoc product replanning is welcome, but must be documented and reviewed at next formal planning meeting  
 - all decisions are documented in a single, searchable location
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkxNTM5OTg2LDE4MjI5MjQ4MzRdfQ==
+eyJoaXN0b3J5IjpbLTkxNTg2MjMzNCwxODIyOTI0ODM0XX0=
 -->
