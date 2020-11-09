@@ -1,6 +1,3 @@
-----------
-
-
 # My "Way of Working"
 _aka my post-ceremonial-agile processes_
 
@@ -12,5 +9,5 @@ _aka my post-ceremonial-agile processes_
 - Iterative product evolution: :ice_skate: :arrow_right: :kick_scooter: :arrow_right: :bike: :arrow_right: :motorcycle: :arrow_right: :car:
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzOTQ4Mjg4OCwxODIyOTI0ODM0XX0=
+eyJoaXN0b3J5IjpbMTgyMjkyNDgzNCwxODIyOTI0ODM0XX0=
 -->
