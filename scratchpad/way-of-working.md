@@ -1,5 +1,5 @@
 # My "Way of Working"
-_aka my post-ceremonial-agile processes_
+_aka the post-ceremonial-agile processes that work best for me, synthesized from the ideas of many who have gone before me_
 
 ## Board practices
 
@@ -37,7 +37,7 @@ _aka my post-ceremonial-agile processes_
 	- Discuss any personnel changes.
 - All decisions ([ADRs](adrs.md), etc.) are documented in a single, searchable location.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzIzNzkxNzUxLDc3NjQxNTI3MiwtMjEyMj
-MwODAyMywtNDI2MTQ5NDg1LC05MTU4NjIzMzQsMTgyMjkyNDgz
-NF19
+eyJoaXN0b3J5IjpbLTE3NDIxODUxMjgsNzIzNzkxNzUxLDc3Nj
+QxNTI3MiwtMjEyMjMwODAyMywtNDI2MTQ5NDg1LC05MTU4NjIz
+MzQsMTgyMjkyNDgzNF19
 -->
