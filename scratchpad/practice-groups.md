@@ -3,10 +3,10 @@
 ## Attributes
 
 - A volunteer, [cooperative effort](https://en.wikipedia.org/wiki/Cooperative) to align and share specialized expertise.
-- Cr
-- Ephemeral by nature, and design. Some may be long-lasting, some may be very short lived.
+- Persistent by nature, and design.
 - Cross-team, but discipline-specific.
-- Co-ops may do the work to accomplish a goal themselves (as time/commitments permit), and/or propose projects to leadership for prioritization.
+- Not guilds. The word guild is overloaded with ancient connotations. Also we're not cargo-culting.
+- Practice groups may do the work to accomplish a goal themselves (as time/commitments permit), and/or propose projects to leadership for prioritization.
 
 ## Example practices
 
@@ -16,5 +16,5 @@
 - React
 - 508
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzNDEwNjE1XX0=
+eyJoaXN0b3J5IjpbMjQ5NTI2MTUzXX0=
 -->
