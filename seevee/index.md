@@ -36,7 +36,7 @@ Experience
 
 *June 2020 - present*
 
-I am the engineering lead for over 70 engineers, designers, product managers, and writers who make up the Veteran Services Platform. Together we build and maintain the tools and infrastructure which support the hundreds of folks building apps for va.gov, which serve over 9 million US veterans.
+I am the engineering lead for over 70 engineers, designers, product managers, and writers who make up the Veteran Services Platform. Together we build and maintain the tools and infrastructure which support the hundreds of folks building apps for va.gov, and over 9 million US veterans.
 
 ### LendingHome
 
@@ -137,5 +137,5 @@ Education
 ---------
 Mathematics, CIS at The Ohio State University
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTEwMTc5MDMsLTMyMzU3NjE2N119
+eyJoaXN0b3J5IjpbMTc1MDExMDg4NiwtMzIzNTc2MTY3XX0=
 -->
