@@ -28,6 +28,10 @@ _aka the post-ceremonial-agile processes that work best for me, synthesized from
 - Record *all* decisions.
 - Iterative product evolution: :ice_skate: :arrow_right: :kick_scooter: :arrow_right: :bike: :arrow_right: :motorcycle: :arrow_right: :car:
 
+## Retros
+
+
+
 ## Et cetera 
 
 - Team Leads have 1:1s with each teammate, biweekly.
@@ -37,7 +41,7 @@ _aka the post-ceremonial-agile processes that work best for me, synthesized from
 	- Discuss any personnel changes.
 - All decisions ([ADRs](adrs.md), etc.) are documented in a single, searchable location.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDIxODUxMjgsNzIzNzkxNzUxLDc3Nj
-QxNTI3MiwtMjEyMjMwODAyMywtNDI2MTQ5NDg1LC05MTU4NjIz
-MzQsMTgyMjkyNDgzNF19
+eyJoaXN0b3J5IjpbLTIwOTAyMjY4MjMsLTE3NDIxODUxMjgsNz
+IzNzkxNzUxLDc3NjQxNTI3MiwtMjEyMjMwODAyMywtNDI2MTQ5
+NDg1LC05MTU4NjIzMzQsMTgyMjkyNDgzNF19
 -->
