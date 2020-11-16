@@ -4,7 +4,7 @@ _aka the post-ceremonial-agile processes that work best for me, synthesized from
 ## Board practices
 
 - **All** work is be visualized on the board. There is no such thing as work "outside the scope of the iteration/project/team".
-- Columns reflect the workflow.
+- The columns on the board [reflect the _actual_ workflow](https://www.marcusoft.net/2017/02/comments-on-board-practices-2.html#how-to-do-this).
 	- [Todo/Doing/Done is not your process](https://www.marcusoft.net/2017/02/comments-on-board-practices-2.html).
 	- [Blocked is not a column](https://www.marcusoft.net/2017/02/comments-on-board-practices.html).
 	- [Done is not a column](https://www.marcusoft.net/2017/02/comments-on-board-practices-3.html).
@@ -41,8 +41,8 @@ _aka the post-ceremonial-agile processes that work best for me, synthesized from
 	- Discuss any personnel changes.
 - All decisions ([ADRs](adrs.md), etc.) are documented in a single, searchable location.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4OTIxMjA2OCwtMjA5MDIyNjgyMywtMT
-c0MjE4NTEyOCw3MjM3OTE3NTEsNzc2NDE1MjcyLC0yMTIyMzA4
-MDIzLC00MjYxNDk0ODUsLTkxNTg2MjMzNCwxODIyOTI0ODM0XX
-0=
+eyJoaXN0b3J5IjpbMTI2OTU3MjM2MiwxMDg5MjEyMDY4LC0yMD
+kwMjI2ODIzLC0xNzQyMTg1MTI4LDcyMzc5MTc1MSw3NzY0MTUy
+NzIsLTIxMjIzMDgwMjMsLTQyNjE0OTQ4NSwtOTE1ODYyMzM0LD
+E4MjI5MjQ4MzRdfQ==
 -->
