@@ -6,7 +6,7 @@ _aka the post-ceremonial-agile processes that work best for me, synthesized from
 - **All** work is be visualized on the board. There is no such thing as work "outside the scope of the iteration/project/team".
 - [Todo/Doing/Done is not your process](https://www.marcusoft.net/2017/02/comments-on-board-practices-2.html). The columns on the board should reflect your _actual_ workflow. One way to find your process is to work backwards from "done", asking _"[What happens before that?](https://www.marcusoft.net/2017/02/comments-on-board-practices-2.html#how-to-do-this)"_.
 - _Blocked_ should be a label, [not a column](https://www.marcusoft.net/2017/02/comments-on-board-practices.html).
-- [Done is not a column](https://www.marcusoft.net/2017/02/comments-on-board-practices-3.html), because deployment isn't the end of our work. Use _Monitor in Production_, _Collect Metrics_, _Post Release Feedback_, or some other term that reflects our actual post-launch processes instead.
+- [Done is not a column](https://www.marcusoft.net/2017/02/comments-on-board-practices-3.html), because merging/deployment isn't the end of our work. Use _Monitor in Production_, _Collect Metrics_, _Gather Release Feedback_, or some other term that reflects our actual post-launch processes instead.
 - [Use WIP limits](https://www.marcusoft.net/2017/02/comments-on-board-practices-5.html).
 - [Use colors, wisely](https://www.marcusoft.net/2017/02/comments-on-board-practices-4.html).
 
@@ -40,8 +40,8 @@ _aka the post-ceremonial-agile processes that work best for me, synthesized from
 	- Discuss any personnel changes.
 - All decisions ([ADRs](adrs.md), etc.) are documented in a single, searchable location.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5OTYwNzE1OCwxMjY5NTcyMzYyLDEwOD
-kyMTIwNjgsLTIwOTAyMjY4MjMsLTE3NDIxODUxMjgsNzIzNzkx
-NzUxLDc3NjQxNTI3MiwtMjEyMjMwODAyMywtNDI2MTQ5NDg1LC
-05MTU4NjIzMzQsMTgyMjkyNDgzNF19
+eyJoaXN0b3J5IjpbNDY0ODA4ODg3LDEyNjk1NzIzNjIsMTA4OT
+IxMjA2OCwtMjA5MDIyNjgyMywtMTc0MjE4NTEyOCw3MjM3OTE3
+NTEsNzc2NDE1MjcyLC0yMTIyMzA4MDIzLC00MjYxNDk0ODUsLT
+kxNTg2MjMzNCwxODIyOTI0ODM0XX0=
 -->
