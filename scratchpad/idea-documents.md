@@ -12,9 +12,9 @@ If we find ourselves wondering if we should write an RFC, an Idea Document is lo
 
 ## Why would we write an idea document?
 
-- To solicit solutions and other feedback early in the problem-solving process.
-- To communicate impact/importance to other teams/teammates.
-- To give structure to our thoughts as we ideate.
+- To determine the viability of an idea.
+- To solicit feedback early in the problem-solving process.
+- To communicate impact and/or importance to others.
 
 ## Who may write an Idea Document?
 
@@ -30,6 +30,6 @@ We will create a GitHub and/or Confluence template from the above, soon.
 
 TBD.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzQ3ODM4ODUsMTI0OTUwMDk0NiwtMT
+eyJoaXN0b3J5IjpbLTE2ODI2ODE0OTIsMTI0OTUwMDk0NiwtMT
 YwMDY1Njg3N119
 -->
