@@ -2,7 +2,7 @@
 
 ## What are they?
 
-A short template for presenting structured decisions .
+A short template to facilitate structured decision-making .
 
 ## Who may write an Idea Document?
 
@@ -30,5 +30,5 @@ We will create a GitHub and/or Confluence template from the above, soon.
 
 TBD.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3ODcyNDc4N119
+eyJoaXN0b3J5IjpbLTEyMjczNDk4OTldfQ==
 -->
