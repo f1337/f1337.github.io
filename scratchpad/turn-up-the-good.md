@@ -8,8 +8,8 @@
 
 - What if we only focused on the good?
 - What if we skipped the bad/needs-improvement stuff during retros?
-- Make 1 small improvement each week/month, 
+- Make 1 small improvement each week/month, and look back a year later at the progress made. 1 small step at a time.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MTkzOTcxOSw0MDkxMjU0OTYsLTE4OT
+eyJoaXN0b3J5IjpbMTg0MzA1MzI5Myw0MDkxMjU0OTYsLTE4OT
 YyMTIyMDBdfQ==
 -->
