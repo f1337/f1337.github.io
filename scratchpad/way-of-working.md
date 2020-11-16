@@ -30,7 +30,7 @@ _aka the post-ceremonial-agile processes that work best for me, synthesized from
 
 ## Retros
 
-
+[Turn up the good](turn-up-the-good.md).
 
 ## Et cetera 
 
@@ -41,7 +41,8 @@ _aka the post-ceremonial-agile processes that work best for me, synthesized from
 	- Discuss any personnel changes.
 - All decisions ([ADRs](adrs.md), etc.) are documented in a single, searchable location.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTAyMjY4MjMsLTE3NDIxODUxMjgsNz
-IzNzkxNzUxLDc3NjQxNTI3MiwtMjEyMjMwODAyMywtNDI2MTQ5
-NDg1LC05MTU4NjIzMzQsMTgyMjkyNDgzNF19
+eyJoaXN0b3J5IjpbLTQ5MDQyOTk5NiwtMjA5MDIyNjgyMywtMT
+c0MjE4NTEyOCw3MjM3OTE3NTEsNzc2NDE1MjcyLC0yMTIyMzA4
+MDIzLC00MjYxNDk0ODUsLTkxNTg2MjMzNCwxODIyOTI0ODM0XX
+0=
 -->
