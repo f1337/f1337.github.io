@@ -4,9 +4,9 @@ _aka the post-ceremonial-agile processes that work best for me, synthesized from
 ## Board practices
 
 - **All** work is be visualized on the board. There is no such thing as work "outside the scope of the iteration/project/team".
-- [Todo/Doing/Done is not your process](https://www.marcusoft.net/2017/02/comments-on-board-practices-2.html). The columns on the board should reflect your _actual_ workflow. One way to find your process is to work backwards from "done", asking _"[What happens before that?](https://www.marcusoft.net/2017/02/comments-on-board-practices-2.html#how-to-do-this).
+- [Todo/Doing/Done is not your process](https://www.marcusoft.net/2017/02/comments-on-board-practices-2.html). The columns on the board should reflect your _actual_ workflow. One way to find your process is to work backwards from "done", asking _"[What happens before that?](https://www.marcusoft.net/2017/02/comments-on-board-practices-2.html#how-to-do-this)"_.
 - _Blocked_ should be a label, [not a column](https://www.marcusoft.net/2017/02/comments-on-board-practices.html).
-	- [Done is not a column](https://www.marcusoft.net/2017/02/comments-on-board-practices-3.html).
+- Use [Done is not a column](https://www.marcusoft.net/2017/02/comments-on-board-practices-3.html).
 - [Use WIP limits](https://www.marcusoft.net/2017/02/comments-on-board-practices-5.html).
 - [Use colors, wisely](https://www.marcusoft.net/2017/02/comments-on-board-practices-4.html).
 
@@ -40,7 +40,7 @@ _aka the post-ceremonial-agile processes that work best for me, synthesized from
 	- Discuss any personnel changes.
 - All decisions ([ADRs](adrs.md), etc.) are documented in a single, searchable location.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDM4MDQ0NjIsMTI2OTU3MjM2MiwxMD
+eyJoaXN0b3J5IjpbLTE2NDE0ODIyNzgsMTI2OTU3MjM2MiwxMD
 g5MjEyMDY4LC0yMDkwMjI2ODIzLC0xNzQyMTg1MTI4LDcyMzc5
 MTc1MSw3NzY0MTUyNzIsLTIxMjIzMDgwMjMsLTQyNjE0OTQ4NS
 wtOTE1ODYyMzM0LDE4MjI5MjQ4MzRdfQ==
