@@ -9,7 +9,7 @@ DOC -- Yes --> CELEB
 ISSOLVED -- No --> ISKNOWN{Do we know the solution?}
 ISKNOWN -- Yes --> ISBIG{Is it a big change?}
 ISKNOWN -- No --> IDEA[Write an idea document]
-IDEA --> TEST[Research or test ideas]
+IDEA --> TEST[Research/test idea]
 TEST --> ISKNOWN
 ISBIG -- No --> ADR[Write an ADR]
 DOC -- No --> ADR
@@ -20,6 +20,6 @@ ISBIGTOO -- No --> ADR
 ISBIGTOO -- Yes --> DD[Write a design document]
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0NDcyODU2NSwzODc5ODc4MDEsMTgxNj
-cyMjY3OCwtMTYxMjc5NjE2NV19
+eyJoaXN0b3J5IjpbMjA2MDY1MTg0LDM4Nzk4NzgwMSwxODE2Nz
+IyNjc4LC0xNjEyNzk2MTY1XX0=
 -->
