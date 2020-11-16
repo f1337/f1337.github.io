@@ -9,7 +9,7 @@ Things that may interest you:
 - and maybe some of my [less organized thoughts](scratchpad/README.md).
 - my [github](https://github.com/f1337)
 - my [linkedin](https://linkedin.com/in/f1337) (resume + recommendations)
-- my [twitter](https://twitter.com/mrf1337) is an un-curated mix of infosec, leadership, mysticism, and christian leftist politics. i am as often full of 💩 on there as not. i auto-delete tweets after a year. YMMV, and your opinion of me may never be the same. caveat emptor.
+- my [twitter](https://twitter.com/mrf1337) is an un-curated mix of infosec, mental health, mysticism, and christian leftist politics. i am as often full of 💩 on there as not. i auto-delete tweets after a year. YMMV, and your opinion of me may never be the same. caveat emptor.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTcxMTcyOTAsMjQyNjU4ODk0XX0=
+eyJoaXN0b3J5IjpbLTE5MTk4NjAxMzYsMjQyNjU4ODk0XX0=
 -->
