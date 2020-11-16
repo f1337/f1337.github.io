@@ -17,7 +17,7 @@ _aka the post-ceremonial-agile processes that work best for me, synthesized from
 - Led by Team Leads or Product Managers.
 - [Work the board from right to left](https://www.marcusoft.net/2017/03/comments-on-board-practices-7.html). What work we can ship today?
 - [Focus on the work, not the workers](https://www.marcusoft.net/2017/02/comments-on-board-practices-6.html).
-- Ad-hoc product re-planning is welcome, but must be documented and reviewed at next formal planning meeting. Record and publish *all* changes for stakeholder review.
+- Ad-hoc product re-planning is welcome, but should be documented and reviewed at next formal planning meeting. Record and publish *all* changes for stakeholder review.
 
 ## Product/iteration planning meetings
 
@@ -41,8 +41,8 @@ _aka the post-ceremonial-agile processes that work best for me, synthesized from
 	- Discuss any personnel changes.
 - All decisions ([ADRs](adrs.md), etc.) are documented in a single, searchable location.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5MDQyOTk5NiwtMjA5MDIyNjgyMywtMT
-c0MjE4NTEyOCw3MjM3OTE3NTEsNzc2NDE1MjcyLC0yMTIyMzA4
-MDIzLC00MjYxNDk0ODUsLTkxNTg2MjMzNCwxODIyOTI0ODM0XX
-0=
+eyJoaXN0b3J5IjpbNDYzMTk0ODE0LC0yMDkwMjI2ODIzLC0xNz
+QyMTg1MTI4LDcyMzc5MTc1MSw3NzY0MTUyNzIsLTIxMjIzMDgw
+MjMsLTQyNjE0OTQ4NSwtOTE1ODYyMzM0LDE4MjI5MjQ4MzRdfQ
+==
 -->
