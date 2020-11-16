@@ -2,7 +2,7 @@
 
 ## What are they?
 
-A short structured format, designed to help facilitate group/team problem-solving.
+A short template for presenting structured decisions .
 
 ## Who may write an Idea Document?
 
@@ -29,3 +29,6 @@ We will create a GitHub and/or Confluence template from the above, soon.
 ## Where do we publish Idea Documents? Where do I find them?
 
 TBD.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTM3ODcyNDc4N119
+-->
