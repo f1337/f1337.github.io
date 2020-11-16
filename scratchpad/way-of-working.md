@@ -26,7 +26,7 @@ _aka the post-ceremonial-agile processes that work best for me, synthesized from
 - Prioritization, not estimation. The best estimates are still only bets.
 - Time-boxed effort, not deadlines. How much time are we willing to spend/risk?
 - Record *all* decisions.
-- Iterative product evolution: :ice_skate: :arrow_right: :kick_scooter: :arrow_right: :bike: :arrow_right: :motorcycle: :arrow_right: :car:
+- Iterative product evolution :ice_skate: :arrow_right: :kick_scooter: :arrow_right: :bike: :arrow_right: :motorcycle: :arrow_right: :car:
 
 ## Retros
 
@@ -41,8 +41,8 @@ _aka the post-ceremonial-agile processes that work best for me, synthesized from
 	- Discuss any personnel changes.
 - All decisions ([ADRs](adrs.md), etc.) are documented in a single, searchable location.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYzMTk0ODE0LC0yMDkwMjI2ODIzLC0xNz
-QyMTg1MTI4LDcyMzc5MTc1MSw3NzY0MTUyNzIsLTIxMjIzMDgw
-MjMsLTQyNjE0OTQ4NSwtOTE1ODYyMzM0LDE4MjI5MjQ4MzRdfQ
-==
+eyJoaXN0b3J5IjpbMTA4OTIxMjA2OCwtMjA5MDIyNjgyMywtMT
+c0MjE4NTEyOCw3MjM3OTE3NTEsNzc2NDE1MjcyLC0yMTIyMzA4
+MDIzLC00MjYxNDk0ODUsLTkxNTg2MjMzNCwxODIyOTI0ODM0XX
+0=
 -->
