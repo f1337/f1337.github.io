@@ -6,8 +6,10 @@
 
 ## Promote what is good, and the bad stuff melts-away.
 
-* What if we only focused on the good?
-* What if we skipped the bad/needs-improvement stuff during retros?
+- What if we only focused on the good?
+- What if we skipped the bad/needs-improvement stuff during retros?
+- Make 1 small improvement each week/month, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA5MTI1NDk2LC0xODk2MjEyMjAwXX0=
+eyJoaXN0b3J5IjpbLTc3MTkzOTcxOSw0MDkxMjU0OTYsLTE4OT
+YyMTIyMDBdfQ==
 -->
