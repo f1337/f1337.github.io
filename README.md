@@ -9,7 +9,7 @@ Things that may interest you:
 - and maybe some of my [less organized thoughts](scratchpad/README.md).
 - my [github](https://github.com/f1337)
 - my [linkedin](https://linkedin.com/in/f1337) (resume + recommendations)
-- my [twitter]() is…opinionated, and i am as often full of 💩 on there as not. YMMV, and your opinion of me 
+- my [twitter](https://twitter.com/mrf1337) is…opinionated, and i am as often full of 💩 on there as not. i auto-delete tweets after a year. YMMV, and your opinion of me may never be the same. don't follow me if the phrase "christian lefcaveat emptor.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1ODk2MDUxMiwyNDI2NTg4OTRdfQ==
+eyJoaXN0b3J5IjpbNTc2MjM1NTkzLDI0MjY1ODg5NF19
 -->
