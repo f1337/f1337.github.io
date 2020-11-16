@@ -2,7 +2,7 @@
 
 ## What are they?
 
-A short structured format, designed to help facilitate team problem-solving and/or decision-making.
+A short structured format for sharing an idea. 
 
 ## When might we write an Idea Document?
 
@@ -30,5 +30,6 @@ We will create a GitHub and/or Confluence template from the above, soon.
 
 TBD.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0OTUwMDk0NiwtMTYwMDY1Njg3N119
+eyJoaXN0b3J5IjpbLTE1NTk4MjczMTQsMTI0OTUwMDk0NiwtMT
+YwMDY1Njg3N119
 -->
