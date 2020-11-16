@@ -2,7 +2,7 @@
 
 ## What are they?
 
-A short template to facilitate structured decision-making .
+A short structured format, designed to help facilitate group/team problem-solving.
 
 ## Who may write an Idea Document?
 
@@ -12,7 +12,7 @@ Anyone! Idea Documents are intended to be used by everyone, including product ma
 
 Any time we have an idea for a feature/improvement/bugfix/whatever which requires research, may impact others on our team, or impact other teams, or if we just want feedback.
 
-If you find yourself wondering whether to you should write an RFC, and Idea Document is an excellent low-commitment first step, and its format naturally evolves into an RFC (if needed).
+If you find yourself wondering if you should write an RFC, an Idea Document is lower-effort, and its format naturally evolves into an RFC (if needed/desired).
 
 ## Why would we write an idea document?
 
@@ -30,5 +30,5 @@ We will create a GitHub and/or Confluence template from the above, soon.
 
 TBD.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjczNDk4OTldfQ==
+eyJoaXN0b3J5IjpbNjYzOTM1NTI2XX0=
 -->
