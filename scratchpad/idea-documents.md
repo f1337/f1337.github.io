@@ -22,7 +22,7 @@ Anyone! Idea Documents are intended to be used by everyone, including product ma
 
 ## How to write an Idea Document?
 
-This is a good template: https://josiahhester.com/cpsc462_682/deliverable1_example1.pdf
+This is a good template: [https://josiahhester.com/cpsc462_682/deliverable1_example1.pdf](https://josiahhester.com/cpsc462_682/deliverable1_example1.pdf)
 
 We will create a GitHub and/or Confluence template from the above, soon.
 
@@ -30,6 +30,6 @@ We will create a GitHub and/or Confluence template from the above, soon.
 
 TBD.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODI2ODE0OTIsMTI0OTUwMDk0NiwtMT
+eyJoaXN0b3J5IjpbLTEwNzY3NDAwODAsMTI0OTUwMDk0NiwtMT
 YwMDY1Njg3N119
 -->
