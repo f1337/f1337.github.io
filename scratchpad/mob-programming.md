@@ -2,13 +2,16 @@
 
 ## Rhythm
 
+Appoint or otherwise decide-upon a [Facilitator](https://github.com/michaelkeeling/mob-programming-patterns#patterns). A
+
 1. Appoint or otherwise decide-upon a [Facilitator](https://github.com/michaelkeeling/mob-programming-patterns#patterns).
 2. The Facilitator helps the group define a "swap timer" length. Start with 20m (ala Pomodoro) if you need help choosing. You can adjust it later.
-3. The Facilitator helps appoint/suggest the following roles:
+3. The Facilitator helps appoint/suggest the following [roles](https://github.com/michaelkeeling/mob-programming-patterns#patterns):
 	- Recorder
 	- Navigator
 	- Driver
-4. 
+	- Researcher (optional)
+4. The Facilitator Punch List
 5. 
 
 ## Must-Reads
@@ -17,5 +20,5 @@
 - [Harvesting Mob Programming Patterns: Observing how we work](https://www.agilealliance.org/resources/experience-reports/harvesting-mob-programming-patterns-observing-how-we-work/) – Michael Keeling & Joe Runde.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc1OTk3MTAwLC0xODcxODkzODkyXX0=
+eyJoaXN0b3J5IjpbLTI2NjE0NTU1NCwtMTg3MTg5Mzg5Ml19
 -->
