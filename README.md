@@ -1,7 +1,7 @@
 # 👋 hello, whirrled
 
 <div style="overflow: auto;">
-	<div style="float: right;">{% avatar f1337 size=200 %}</div>
+<div style="float: right;">{% avatar f1337 size=200 %}</div>
 
 My name is Michael Fleet. I'm a software polyglot and hardware tinkerer, who loves working with Ruby, Rails, JavaScript, Go, HTTP-APIs, Docker, Raspberry Pi, and Arduino.
 
@@ -17,7 +17,8 @@ Things that may interest you:
 
 </div>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5MDE0NDE0OCwxMjM1MjMzNTMyLDkzMD
-I5MTMyNywtMTgyMTA2MzMzLDYwNTg0NjgzMSwtOTE1ODM3NjI5
-LC0yNTcwMjY3MjQsLTE5MTk4NjAxMzYsMjQyNjU4ODk0XX0=
+eyJoaXN0b3J5IjpbNzI4NjcwOTU2LDE4OTAxNDQxNDgsMTIzNT
+IzMzUzMiw5MzAyOTEzMjcsLTE4MjEwNjMzMyw2MDU4NDY4MzEs
+LTkxNTgzNzYyOSwtMjU3MDI2NzI0LC0xOTE5ODYwMTM2LDI0Mj
+Y1ODg5NF19
 -->
