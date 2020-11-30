@@ -6,17 +6,15 @@ My name is Michael Fleet. I'm a software polyglot and hardware tinkerer, who lov
 
 Things that may interest you:
 
-- [resume/CV](cv/)
-- [tradecraft](tradecraft/README.md)
-- notes on [architectural decision records](tradecraft/architectural-decision-records.md) and [when to use them](tradecraft/flowchart.md)
-- and maybe some of my [less organized thoughts](scratchpad/README.md)
-- my [github](https://github.com/f1337)
-- my [linkedin](https://linkedin.com/in/f1337) (resume + recommendations)
-- my [twitter](https://twitter.com/mrf1337) is an un-curated mix of infosec, mental health, mysticism, and christian leftist politics. i am as often full of 💩 on there as not. i auto-delete tweets after a year. YMMV, and your opinion of me may never be the same. caveat emptor.
+- [Tradecraft](tradecraft/README.md): Techniques & processes for software development.
+- Notes on [architectural decision records](tradecraft/architectural-decision-records.md) and [when to use them](tradecraft/flowchart.md).
+- …and maybe some of my [less organized thoughts].(scratchpad/README.md)
+- References: [resume/CV](cv/), [github](https://github.com/f1337), [linkedin](https://linkedin.com/in/f1337)
+- My [twitter](https://twitter.com/mrf1337) is an un-curated mix of infosec, mental health, mysticism, and christian leftist politics. i am as often full of 💩 on there as not. i auto-delete tweets after a year. YMMV, and your opinion of me may never be the same. caveat emptor.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzQzMDY3NjMsMTg5MDE0NDE0OCwxMj
-M1MjMzNTMyLDkzMDI5MTMyNywtMTgyMTA2MzMzLDYwNTg0Njgz
-MSwtOTE1ODM3NjI5LC0yNTcwMjY3MjQsLTE5MTk4NjAxMzYsMj
-QyNjU4ODk0XX0=
+eyJoaXN0b3J5IjpbMTQ5MjAyMTUwNywtMTQzNDMwNjc2MywxOD
+kwMTQ0MTQ4LDEyMzUyMzM1MzIsOTMwMjkxMzI3LC0xODIxMDYz
+MzMsNjA1ODQ2ODMxLC05MTU4Mzc2MjksLTI1NzAyNjcyNCwtMT
+kxOTg2MDEzNiwyNDI2NTg4OTRdfQ==
 -->
