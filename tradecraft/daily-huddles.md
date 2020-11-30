@@ -1,4 +1,3 @@
-
 # Daily re-planning huddles
 
 - Use daily huddles for re-planning meetings, not status meetings.
@@ -8,5 +7,5 @@
 - Ad-hoc product re-planning is welcome, but should be documented and reviewed at next formal planning meeting. Record and publish *all* changes for stakeholder review.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE5NDAzODQwXX0=
+eyJoaXN0b3J5IjpbMTk0NDg1NDE5MF19
 -->
