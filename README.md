@@ -8,6 +8,7 @@
 My name is Michael Fleet. I'm a software polyglot and hardware tinkerer, who loves working with Ruby, Rails, JavaScript, Go, HTTP-APIs, Docker, Raspberry Pi, and Arduino.
 
 Things that may interest you:
+
 - [resume/CV](cv/)
 - [tradecraft](tradecraft/README.md)
 - notes on [architectural decision records](tradecraft/architectural-decision-records.md) and [when to use them](tradecraft/flowchart.md)
@@ -18,7 +19,7 @@ Things that may interest you:
 
 </div>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Mzg3MTA0MjIsOTMwMjkxMzI3LC0xOD
-IxMDYzMzMsNjA1ODQ2ODMxLC05MTU4Mzc2MjksLTI1NzAyNjcy
-NCwtMTkxOTg2MDEzNiwyNDI2NTg4OTRdfQ==
+eyJoaXN0b3J5IjpbMTIzNTIzMzUzMiw5MzAyOTEzMjcsLTE4Mj
+EwNjMzMyw2MDU4NDY4MzEsLTkxNTgzNzYyOSwtMjU3MDI2NzI0
+LC0xOTE5ODYwMTM2LDI0MjY1ODg5NF19
 -->
