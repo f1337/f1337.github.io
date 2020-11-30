@@ -22,7 +22,7 @@ _Techniques & processes for software development, synthesized while standing upo
 ## Product/iteration planning meetings
 
 - Monthly formal product/iteration planning, to adjust priorities and workstreams. This is where big goalpost moves can happen.
-- Review past month's decisions from re-planning meetings (if any).
+- Review past month's decisions from re-planning meetings (if any, include ADRs).
 - Prioritization, not estimation. The best estimates are still only bets.
 - Time-boxed effort, not deadlines. How much time are we willing to spend/risk?
 - Record *all* decisions.
@@ -31,7 +31,6 @@ _Techniques & processes for software development, synthesized while standing upo
 ## Retros
 
 - [Turn up the good](turn-up-the-good.md).
-- Review decisions? (ADRs, etc)
 
 ## Et cetera 
 
@@ -42,5 +41,5 @@ _Techniques & processes for software development, synthesized while standing upo
 	- Discuss any personnel changes.
 - All decisions ([ADRs](architectural-decision-records.md), etc.) are documented in a single, searchable location.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTkyODU1NjFdfQ==
+eyJoaXN0b3J5IjpbLTY1NjUyOTA3N119
 -->
