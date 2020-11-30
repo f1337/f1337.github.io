@@ -1,6 +1,6 @@
 
 # Tradecraft
-_Practices & processes that work well (in my experience), synthesized while enjoying the view from the shoulders of giants._
+_Practices & processes that work well (in my experience), synthesized as I stand upon the shoulders of giants._
 
 ## Board practices
 
@@ -41,5 +41,5 @@ _Practices & processes that work well (in my experience), synthesized while enjo
 	- Discuss any personnel changes.
 - All decisions ([ADRs](adrs.md), etc.) are documented in a single, searchable location.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxODUwMTUyNl19
+eyJoaXN0b3J5IjpbLTIwNDE2Mjk4MTFdfQ==
 -->
