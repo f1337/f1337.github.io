@@ -1,6 +1,6 @@
 # Co-ops
 
-> [One] anarchist theory of organisations is what we might call the theory of spontaneous order ...” Anarchism as a Theory of Organisation by C Ward (pp.389)
+> [One] anarchist theory of organisations is what we might call the theory of spontaneous order …” — Anarchism as a Theory of Organisation by C Ward (pp.389)
 
 [5:30 AM · Nov 29, 2020](https://twitter.com/al94781/status/1332995421250215938)·[Twitter Web App](https://help.twitter.com/using-twitter/how-to-tweet#source-labels)
 
@@ -93,5 +93,6 @@ Andrew Harmel-Law
 
 - Improve signal-to-noise ratios of our alerting.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczMzUyMDcxNSwtMTgzNTUxNDg0N119
+eyJoaXN0b3J5IjpbLTEwMDI0MDQwNDcsLTE4MzU1MTQ4NDddfQ
+==
 -->
