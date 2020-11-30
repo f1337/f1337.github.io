@@ -28,18 +28,19 @@ _Techniques & processes for software development, synthesized while standing upo
 - Record *all* decisions.
 - Iterative product evolution :ice_skate: :arrow_right: :kick_scooter: :arrow_right: :bike: :arrow_right: :motorcycle: :arrow_right: :car:
 
-## Retros
+## Meetings
 
-- [Turn up the good](turn-up-the-good.md).
-
-## Et cetera 
-
+- Retros: [Turn up the good](turn-up-the-good.md), turn down the criticism.
 - Team Leads have 1:1s with each teammate, biweekly.
 - Team Leads lead a weekly team feedback meeting, with engineers and Product Managers as stakeholders (PMs lead when TL is out).
 	- Do we want to adjust any processes?
 	- Are there any team-wide issues?
 	- Discuss any personnel changes.
+
+## Et cetera 
+
 - All decisions ([ADRs](architectural-decision-records.md), etc.) are documented in a single, searchable location.
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1NjUyOTA3N119
+eyJoaXN0b3J5IjpbMTgyMDA2ODU3MiwtNjU2NTI5MDc3XX0=
 -->
