@@ -3,6 +3,7 @@
 <div style="overflow: auto;">
 	<div style="float: right;">
 {% avatar f1337 style="float: right;" size=200 %}
+	</div>
 My name is Michael Fleet. I'm a software polyglot and hardware tinkerer, who loves working with Ruby, Rails, JavaScript, Go, HTTP-APIs, Docker, Raspberry Pi, and Arduino.
 </div>
 
@@ -15,7 +16,7 @@ Things that may interest you:
 - my [linkedin](https://linkedin.com/in/f1337) (resume + recommendations)
 - my [twitter](https://twitter.com/mrf1337) is an un-curated mix of infosec, mental health, mysticism, and christian leftist politics. i am as often full of 💩 on there as not. i auto-delete tweets after a year. YMMV, and your opinion of me may never be the same. caveat emptor.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTA4ODgyNTMsOTMwMjkxMzI3LC0xOD
-IxMDYzMzMsNjA1ODQ2ODMxLC05MTU4Mzc2MjksLTI1NzAyNjcy
-NCwtMTkxOTg2MDEzNiwyNDI2NTg4OTRdfQ==
+eyJoaXN0b3J5IjpbNzg3MDcyNDczLDkzMDI5MTMyNywtMTgyMT
+A2MzMzLDYwNTg0NjgzMSwtOTE1ODM3NjI5LC0yNTcwMjY3MjQs
+LTE5MTk4NjAxMzYsMjQyNjU4ODk0XX0=
 -->
