@@ -1,4 +1,3 @@
-
 # Board practices
 
 - **All** work is visualized on the board. There is no such thing as work "outside the scope of the iteration/project/team".
@@ -7,6 +6,7 @@
 - [Done is not a column](https://www.marcusoft.net/2017/02/comments-on-board-practices-3.html), because merging/deployment isn't the end of our work. Use _Monitor in Production_, _Collect Metrics_, _Gather Release Feedback_, or some other term that reflects our actual post-launch processes instead.
 - [Use WIP limits](https://www.marcusoft.net/2017/02/comments-on-board-practices-5.html).
 - [Use colors, wisely](https://www.marcusoft.net/2017/02/comments-on-board-practices-4.html).
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzQzNjU3MjBdfQ==
+eyJoaXN0b3J5IjpbMjE5OTUxODQ4XX0=
 -->
