@@ -1,5 +1,6 @@
 # 👋 hello, whirrled
 
+<div style="float: right;">{% avatar f1337 size=200 %}</div>
 
 My name is Michael Fleet. I'm a software polyglot and hardware tinkerer, who loves working with Ruby, Rails, JavaScript, Go, HTTP-APIs, Docker, Raspberry Pi, and Arduino.
 
@@ -14,8 +15,8 @@ Things that may interest you:
 - my [twitter](https://twitter.com/mrf1337) is an un-curated mix of infosec, mental health, mysticism, and christian leftist politics. i am as often full of 💩 on there as not. i auto-delete tweets after a year. YMMV, and your opinion of me may never be the same. caveat emptor.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0NzgyOTcxMiwxODkwMTQ0MTQ4LDEyMz
-UyMzM1MzIsOTMwMjkxMzI3LC0xODIxMDYzMzMsNjA1ODQ2ODMx
-LC05MTU4Mzc2MjksLTI1NzAyNjcyNCwtMTkxOTg2MDEzNiwyND
-I2NTg4OTRdfQ==
+eyJoaXN0b3J5IjpbLTE0MzQzMDY3NjMsMTg5MDE0NDE0OCwxMj
+M1MjMzNTMyLDkzMDI5MTMyNywtMTgyMTA2MzMzLDYwNTg0Njgz
+MSwtOTE1ODM3NjI5LC0yNTcwMjY3MjQsLTE5MTk4NjAxMzYsMj
+QyNjU4ODk0XX0=
 -->
