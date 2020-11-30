@@ -1,6 +1,8 @@
 # Architectural Decision Records (ADRs)
 
-> An architectural decision record (ADR) is a document that--captures an important architectural decision made along with its context and consequences. – [joelparkerhenderson/architecture_decision_record](https://github.com/joelparkerhenderson/architecture_decision_record)
+> An architectural decision record (ADR) is a document that--captures an important architectural decision made along with its context and consequences.
+
+— [joelparkerhenderson/architecture_decision_record](https://github.com/joelparkerhenderson/architecture_decision_record)
 
 They don’t have to be complicated. The most important thing™ is recording the decision and who made it. The next most important thing is to capture something to help us remember the reason(s) for making the decision. Resist the temptation to let perfect be the enemy of good: shorthand notes which jog the memory of the decision-makers are better than nothing.
 
@@ -32,5 +34,5 @@ We will publish an ADR any time we make a technical or architectural decision wh
 - [GitHub ADR organization](https://adr.github.io/)
 - [Cognitect: Documenting Architecture Decisions](https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxNDE5MzUwN119
+eyJoaXN0b3J5IjpbMjAwNjg4MzI5NF19
 -->
