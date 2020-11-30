@@ -2,3 +2,8 @@ remote_theme: rundocs/jekyll-rtd-theme
 
 plugins:
   - jemoji
+  - jekyll-avatar
+  - jekyll-mentions
+
+jekyll-mentions:
+  base_url: https://twitter.com
