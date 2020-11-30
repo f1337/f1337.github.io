@@ -9,11 +9,11 @@ Things that may interest you:
 - [Tradecraft](tradecraft/README.md): Techniques & processes for software development.
 - …and maybe some of my [less organized thoughts](scratchpad/README.md).
 - Credentials: [resume/CV](cv/), [patents](cv/#patents), [github](https://github.com/f1337), [linkedin](https://linkedin.com/in/f1337).
-- My [twitter](https://twitter.com/mrf1337) is an un-curated mix of software, infosec, mental health, mysticism, and christian leftist politics. I am as often full of 💩 on there as not (I mean well, but don't always do as well as I mean t). I auto-delete tweets after a year. YMMV, and your opinion of me may never be the same. Caveat emptor.
+- My [twitter](https://twitter.com/mrf1337) is an un-curated mix of software, infosec, mental health, mysticism, and christian leftist politics. I am as often full of 💩 on there as not. I mean well, but don't always do as well as I'd like. I auto-delete tweets after a year. YMMV, and your opinion of me may never be the same. Caveat emptor.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMTgyOTk2MCwtMTAxNzI1Njk5OSwtMT
-QzNDMwNjc2MywxODkwMTQ0MTQ4LDEyMzUyMzM1MzIsOTMwMjkx
-MzI3LC0xODIxMDYzMzMsNjA1ODQ2ODMxLC05MTU4Mzc2MjksLT
-I1NzAyNjcyNCwtMTkxOTg2MDEzNiwyNDI2NTg4OTRdfQ==
+eyJoaXN0b3J5IjpbMzMxMzI5MzIsLTEwMTcyNTY5OTksLTE0Mz
+QzMDY3NjMsMTg5MDE0NDE0OCwxMjM1MjMzNTMyLDkzMDI5MTMy
+NywtMTgyMTA2MzMzLDYwNTg0NjgzMSwtOTE1ODM3NjI5LC0yNT
+cwMjY3MjQsLTE5MTk4NjAxMzYsMjQyNjU4ODk0XX0=
 -->
