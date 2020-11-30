@@ -1,5 +1,7 @@
 # Practice Groups
 
+Note to self: Trying to split hairs betw different kinds of cooperative organization types may not be the best use of time. Co-ops could be discipline-specific?
+
 ## Attributes
 
 - A volunteer, [cooperative effort](https://en.wikipedia.org/wiki/Cooperative) to align and share specialized expertise.
@@ -16,5 +18,5 @@
 - React
 - 508
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ5NTI2MTUzXX0=
+eyJoaXN0b3J5IjpbLTE5Mjk3MjUwOTksMjQ5NTI2MTUzXX0=
 -->
