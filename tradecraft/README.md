@@ -39,7 +39,7 @@ _Practices & processes that work well (in my experience), synthesized as I stand
 	- Do we want to adjust any processes?
 	- Are there any team-wide issues?
 	- Discuss any personnel changes.
-- All decisions ([ADRs](adrs.md), etc.) are documented in a single, searchable location.
+- All decisions ([ADRs](architectural-decision-records.md), etc.) are documented in a single, searchable location.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDE2Mjk4MTFdfQ==
+eyJoaXN0b3J5IjpbLTE5NDA0MzE4ODhdfQ==
 -->
