@@ -1,6 +1,6 @@
 
 # Tradecraft
-_Practices & processes that work well (in my experience), synthesized as I stand upon the shoulders of giants._
+_Techniques & processes that work well (in my experience), synthesized as I stand upon the shoulders of giants._
 
 ## Board practices
 
@@ -41,5 +41,5 @@ _Practices & processes that work well (in my experience), synthesized as I stand
 	- Discuss any personnel changes.
 - All decisions ([ADRs](architectural-decision-records.md), etc.) are documented in a single, searchable location.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDA0MzE4ODhdfQ==
+eyJoaXN0b3J5IjpbMTYyNjgxMjI4NV19
 -->
