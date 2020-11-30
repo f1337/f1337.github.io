@@ -8,12 +8,12 @@
 - A volunteer, [cooperative effort](https://en.wikipedia.org/wiki/Cooperative) to accomplish a specific goal.
 - Ephemeral by nature, and design. Some may be long-lasting, some may be very short lived.
 - Cross-team, cross-functional, and cross-disciplinary. Anyone is welcome, this is definitely not just for engineers.
-- Not guilds. The word guild is overloaded with ancient connotations. Copying [Spotify](https://www.atlassian.com/agile/agile-at-scale/spotify) isn't agile, it's [cargo-culting](https://en.wikipedia.org/wiki/Cargo_cult). What works for Spotify works for them because they 
+- Not guilds. The word guild is overloaded with ancient connotations. Plus copying [Spotify](https://www.atlassian.com/agile/agile-at-scale/spotify) isn't agile, it's [cargo-culting](https://en.wikipedia.org/wiki/Cargo_cult). Spotify's "model" works for them because, bear with me, it's _modeled_ after Spotify's unique organizational needs.
 - Co-ops may do the work to accomplish a goal themselves (as time/commitments permit), and/or propose projects to leadership for prioritization.
 
 ## Example goals
 
 - Improve signal-to-noise ratios of our alerting.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0MjU5Mzk1MiwtMTgzNTUxNDg0N119
+eyJoaXN0b3J5IjpbLTEwNjg1NzE1LC0xODM1NTE0ODQ3XX0=
 -->
