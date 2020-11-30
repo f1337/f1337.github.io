@@ -15,12 +15,12 @@
 ## Anti-Features
 
 - Not hierarchical. At LendingHome, it took less than two months for the "architecture guild" to be hijacked and turned into a defacto "architecture review board". And not for healthy reasons.
-- Not guilds. The word guild is overloaded with ancient connotations. Plus copying [Spotify](https://www.atlassian.com/agile/agile-at-scale/spotify) isn't agile, it's [cargo-culting](https://en.wikipedia.org/wiki/Cargo_cult). Spotify's "model" works for them because, bear with me, it's _modeled_ after Spotify's unique organizational needs.
+- Not guilds. The word guild is overloaded with connotations that contradict the intended pattern. Plus copying [Spotify](https://www.atlassian.com/agile/agile-at-scale/spotify) isn't agile, it's [cargo-culting](https://en.wikipedia.org/wiki/Cargo_cult). Spotify's "model" works for them because, bear with me, it's _modeled_ after Spotify's unique organizational needs.
 
 ## Example goals
 
 - Improve signal-to-noise ratios of our alerting.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0OTk2MjY3MywtMTYyNTQyNjc2NywtMT
+eyJoaXN0b3J5IjpbMTkxNDI3ODc1MSwtMTYyNTQyNjc2NywtMT
 gzNTUxNDg0N119
 -->
