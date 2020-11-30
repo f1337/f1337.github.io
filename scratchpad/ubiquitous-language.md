@@ -6,7 +6,7 @@ Expound on the following, and generalize for use as an agile force-multiplier, v
 
 — [Martin Fowler](https://martinfowler.com/bliki/UbiquitousLanguage.html)
 
-- words matter. look up my old TDD presentations for citations.
+words matter. look up my old TDD presentations for citations.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTEzMDgxNDY2LDEyNjE4Nzk0MTldfQ==
+eyJoaXN0b3J5IjpbMTQ1MDIyNzYyMywxMjYxODc5NDE5XX0=
 -->
