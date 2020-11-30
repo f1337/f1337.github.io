@@ -2,7 +2,7 @@
 
 _Techniques & processes for software development, synthesized while standing upon the shoulders of giants._
 
-## Team practices
+## Techniques
 
 - [Board practices](board-practices.md)
 - [Daily huddles](daily-huddles.md)
@@ -17,5 +17,5 @@ _Techniques & processes for software development, synthesized while standing upo
 - Use [mob programming](mob-programming.md) to unblock, to push through hard problems, and to share knowledge.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0MTY5Mzc0OCwtNjU2NTI5MDc3XX0=
+eyJoaXN0b3J5IjpbLTgxMzE4NjM0MiwtNjU2NTI5MDc3XX0=
 -->
