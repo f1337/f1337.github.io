@@ -1,6 +1,6 @@
 
 # Tradecraft
-_aka the practices & processes that work best for me, synthesized from the ideas of many who have gone before me_
+_Practices & processes that work well (in my experience), synthesized while enjoying the view from the shoulders of giants._
 
 ## Board practices
 
@@ -41,5 +41,5 @@ _aka the practices & processes that work best for me, synthesized from the ideas
 	- Discuss any personnel changes.
 - All decisions ([ADRs](adrs.md), etc.) are documented in a single, searchable location.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA4MTY4MTk5XX0=
+eyJoaXN0b3J5IjpbMTQxODUwMTUyNl19
 -->
