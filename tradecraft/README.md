@@ -4,7 +4,8 @@ _Techniques & processes for software development, synthesized while standing upo
 
 - [Board practices](board-practices.md)
 - [Daily huddles](daily-huddles.md)
-- [Planning](planning.md)
+- [Planning meetings](planning-meetings.md)
+- [Team meetings](team-meetings.md)
 
 
 
@@ -28,5 +29,5 @@ _Techniques & processes for software development, synthesized while standing upo
 - Use [mob programming](mob-programming.md) to unblock, to push through hard problems, and to share knowledge.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2MDM2MTIxMSwtNjU2NTI5MDc3XX0=
+eyJoaXN0b3J5IjpbLTE5NDg4MDUxODAsLTY1NjUyOTA3N119
 -->
