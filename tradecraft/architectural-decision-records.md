@@ -28,9 +28,9 @@ We will publish an ADR any time we make a technical or architectural decision wh
 
 ## See also
 
-- https://engineering.atspotify.com/2020/04/14/when-should-i-write-an-architecture-decision-record/
+- [Spotify: When Should I Write an Architecture Decision Record](https://engineering.atspotify.com/2020/04/14/when-should-i-write-an-architecture-decision-record/
 - https://adr.github.io/
 - https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI2Mjc2NzE4XX0=
+eyJoaXN0b3J5IjpbLTE3MzUyNDkyNzRdfQ==
 -->
