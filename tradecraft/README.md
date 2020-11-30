@@ -30,7 +30,8 @@ _Techniques & processes for software development, synthesized while standing upo
 
 ## Retros
 
-[Turn up the good](turn-up-the-good.md).
+- [Turn up the good](turn-up-the-good.md).
+- Review decisions? (ADRs, etc)
 
 ## Et cetera 
 
@@ -41,5 +42,5 @@ _Techniques & processes for software development, synthesized while standing upo
 	- Discuss any personnel changes.
 - All decisions ([ADRs](architectural-decision-records.md), etc.) are documented in a single, searchable location.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMTM5MDQ3Ml19
+eyJoaXN0b3J5IjpbLTE4MTkyODU1NjFdfQ==
 -->
