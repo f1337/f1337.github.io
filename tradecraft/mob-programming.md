@@ -18,9 +18,10 @@ Appoint or otherwise decide-upon a [Facilitator](https://github.com/michaelkeeli
 
 ## Must-Reads
 
-- [Mob Programming Patterns](https://github.com/michaelkeeling/mob-programming-patterns) – Michael Keeling.
-- [Harvesting Mob Programming Patterns: Observing how we work](https://www.agilealliance.org/resources/experience-reports/harvesting-mob-programming-patterns-observing-how-we-work/) – Michael Keeling & Joe Runde.
+- [# Mob Programming : A Whole Team Approach](https://www.agilealliance.org/resources/sessions/mob-programming-a-whole-team-approach-aatc2017/) — Woody Zuill
+- [Mob Programming Patterns](https://github.com/michaelkeeling/mob-programming-patterns) — Michael Keeling.
+- [Harvesting Mob Programming Patterns: Observing how we work](https://www.agilealliance.org/resources/experience-reports/harvesting-mob-programming-patterns-observing-how-we-work/) — Michael Keeling & Joe Runde.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ3NDExNjI3LDEzNTQ2Njg5NjNdfQ==
+eyJoaXN0b3J5IjpbNzE0NDI4NzkyLDEzNTQ2Njg5NjNdfQ==
 -->
