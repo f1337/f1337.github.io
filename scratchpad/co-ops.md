@@ -1,6 +1,8 @@
 # Co-ops
 
-> [One] theory of organization is what we might call the theory of spontaneous order: that given a common need, a collection of people will, by trial and error, by improvisation and experiment, evolve order out of chaos — this order being more durable and more closely related to their needs than any kind of externally imposed order. — [Anarchism as a Theory of Organization](https://theanarchistlibrary.org/library/colin-ward-anarchism-as-a-theory-of-organization), Colin Ward, 1966.
+> [One] theory of organization is what we might call the theory of spontaneous order: that given a common need, a collection of people will, by trial and error, by improvisation and experiment, evolve order out of chaos — this order being more durable and more closely related to their needs than any kind of externally imposed order.
+
+— [Anarchism as a Theory of Organization](https://theanarchistlibrary.org/library/colin-ward-anarchism-as-a-theory-of-organization), Colin Ward, 1966.
 
 
 ## Features
@@ -19,6 +21,6 @@
 
 - Improve signal-to-noise ratios of our alerting.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjU0MjY3NjcsLTE4MzU1MTQ4NDddfQ
-==
+eyJoaXN0b3J5IjpbMTA0OTk2MjY3MywtMTYyNTQyNjc2NywtMT
+gzNTUxNDg0N119
 -->
