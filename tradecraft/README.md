@@ -40,7 +40,10 @@ _Techniques & processes for software development, synthesized while standing upo
 ## Et cetera 
 
 - All decisions ([ADRs](architectural-decision-records.md), etc.) are documented in a single, searchable location.
+- [Architectural decision records](tradecraft/architectural-decision-records.md) and [when to use them](tradecraft/flowchart.md).
+- Use [idea documents](idea-documents.md) to vet ideas.
+- [Mob Programming](mob-programming.md)
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMDA2ODU3MiwtNjU2NTI5MDc3XX0=
+eyJoaXN0b3J5IjpbLTEwMDg3NTA4OTEsLTY1NjUyOTA3N119
 -->
