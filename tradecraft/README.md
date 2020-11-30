@@ -4,7 +4,7 @@ _Techniques & processes for software development, synthesized while standing upo
 
 ## Board practices
 
-- **All** work is be visualized on the board. There is no such thing as work "outside the scope of the iteration/project/team".
+- **All** work is visualized on the board. There is no such thing as work "outside the scope of the iteration/project/team".
 - [Todo/Doing/Done is not your process](https://www.marcusoft.net/2017/02/comments-on-board-practices-2.html). The columns on the board should reflect your _actual_ workflow. One way to find your process is to work backwards from "done", asking _"[What happens before that?](https://www.marcusoft.net/2017/02/comments-on-board-practices-2.html#how-to-do-this)"_.
 - _Blocked_ should be a label, [not a column](https://www.marcusoft.net/2017/02/comments-on-board-practices.html).
 - [Done is not a column](https://www.marcusoft.net/2017/02/comments-on-board-practices-3.html), because merging/deployment isn't the end of our work. Use _Monitor in Production_, _Collect Metrics_, _Gather Release Feedback_, or some other term that reflects our actual post-launch processes instead.
@@ -13,7 +13,7 @@ _Techniques & processes for software development, synthesized while standing upo
 
 ## Daily re-planning huddles
 
-- Daily huddles are re-planning meetings, not status meetings.
+- Use daily huddles for re-planning meetings, not status meetings.
 - Led by Team Leads or Product Managers.
 - [Work the board from right to left](https://www.marcusoft.net/2017/03/comments-on-board-practices-7.html). What work we can ship today?
 - [Focus on the work, not the workers](https://www.marcusoft.net/2017/02/comments-on-board-practices-6.html).
