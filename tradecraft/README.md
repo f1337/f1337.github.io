@@ -5,9 +5,9 @@ _Techniques & processes for software development, synthesized while standing upo
 ## Techniques
 
 - [Board practices]({% post_url board-practices %})
-- [Daily huddles](daily-huddles.md)
-- [Planning meetings](planning-meetings.md)
-- [Team meetings](team-meetings.md)
+- [Daily huddles]({% post_url daily-huddles %})
+- [Planning meetings]({% post_url planning-meetings %})
+- [Team meetings](%{ post_url team-meetings %})
 
 ## Collaboration tools 
 
@@ -17,5 +17,5 @@ _Techniques & processes for software development, synthesized while standing upo
 - Use [mob programming](mob-programming.md) to unblock, to push through hard problems, and to share knowledge.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxOTU0MDk2NywtNjU2NTI5MDc3XX0=
+eyJoaXN0b3J5IjpbLTMwNzQzNjYyNiwtNjU2NTI5MDc3XX0=
 -->
