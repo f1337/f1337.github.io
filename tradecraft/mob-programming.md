@@ -8,7 +8,7 @@
 
 Appoint or otherwise decide-upon a [Facilitator](https://github.com/michaelkeeling/mob-programming-patterns#patterns). At the start of the mob session, and then at every swap, the Facilitator reminds the group to do the following:
 
-1. Define a "swap timer" length, then [start the timer](https://pomofocus.io/). Start with 25m (ala Pomodoro) if you need help choosing. You can adjust it later.
+1. Define the desired swapping interval, then [start the timer](https://pomofocus.io/). Start with 25m (ala Pomodoro), adjust to what works best for the mob.
 2. Define/document/update the [Punch List](https://github.com/michaelkeeling/mob-programming-patterns#patterns).
 3. Define/swap [roles](https://github.com/michaelkeeling/mob-programming-patterns#patterns). Everyone isn't _required_ to swap roles every time, but swapping roles often is _strongly encouraged_.
 	- Recorder
@@ -25,5 +25,5 @@ Appoint or otherwise decide-upon a [Facilitator](https://github.com/michaelkeeli
 - [Harvesting Mob Programming Patterns: Observing how we work](https://www.agilealliance.org/resources/experience-reports/harvesting-mob-programming-patterns-observing-how-we-work/) — Michael Keeling & Joe Runde.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0OTc0MTQwOSwxMzU0NjY4OTYzXX0=
+eyJoaXN0b3J5IjpbMjAyOTAxOTQwNywxMzU0NjY4OTYzXX0=
 -->
