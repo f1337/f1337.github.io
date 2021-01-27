@@ -12,11 +12,13 @@
 
 When we think the cost for mobbing will be less than the cost of working siloed. Sometimes working in individual threads is better: more efficient, better for morale/mental-health, etc. When individual work thread become blocked, or stuck in a miscommunication loop, often a short pairing or mobbing session is the solution.
 
-### How does mobbing differ from a hackathon?
-
 ### Is mobbing like pairing with more people?
 
-Yes, but it also a bit more disciplined. It is easier for two people to find a social equilibrium that works for them than it is for 3-4+. The roles prescribed below are designed to [turn up the good]().
+Yes, but it also a bit more disciplined. It is easier for two people to find a social equilibrium that works for them than it is for 3-4+. The roles prescribed by mobbing are designed to [turn up the good](turn-up-the-good.md).
+
+### How does mobbing differ from a hackathon?
+
+Mobbing is much more structured compared to a hackathon. There is a single goal with mobbing
 
 
 ## How do we mob?
@@ -40,6 +42,6 @@ Appoint or otherwise decide-upon a [Facilitator](https://github.com/michaelkeeli
 - [Harvesting Mob Programming Patterns: Observing how we work](https://www.agilealliance.org/resources/experience-reports/harvesting-mob-programming-patterns-observing-how-we-work/) — Michael Keeling & Joe Runde.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0NTIzODU3NSwtMTQ3MTg1ODE4MSwxMz
-U0NjY4OTYzXX0=
+eyJoaXN0b3J5IjpbLTE5MjE4MDM5NDIsLTE0NzE4NTgxODEsMT
+M1NDY2ODk2M119
 -->
