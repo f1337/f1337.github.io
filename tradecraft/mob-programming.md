@@ -18,8 +18,7 @@ Yes, but it also a bit more disciplined. It is easier for two people to find a s
 
 ### How does mobbing differ from a hackathon?
 
-Mobbing is much more structured compared to a hackathon. There is a single goal with mobbing
-
+Hackathons usually involve multiple teams working on different projects, often in competition. Mob focus on a single goal, as a single team, using a single keyboard. 
 
 ## How do we mob?
 
@@ -42,6 +41,6 @@ Appoint or otherwise decide-upon a [Facilitator](https://github.com/michaelkeeli
 - [Harvesting Mob Programming Patterns: Observing how we work](https://www.agilealliance.org/resources/experience-reports/harvesting-mob-programming-patterns-observing-how-we-work/) — Michael Keeling & Joe Runde.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjE4MDM5NDIsLTE0NzE4NTgxODEsMT
-M1NDY2ODk2M119
+eyJoaXN0b3J5IjpbMjAyNzI3OTE2NSwtMTQ3MTg1ODE4MSwxMz
+U0NjY4OTYzXX0=
 -->
