@@ -6,19 +6,9 @@
 
 — Marcus Hammarberg, [Mob programming – Full Team, Full Throttle](http://codebetter.com/marcushammarberg/2013/08/06/mob-programming/)
 
-## FAQs
-
-### When do we mob?
+## When do we mob?
 
 When we think the cost for mobbing will be less than the cost of working siloed. Sometimes working in individual threads is better: more efficient, better for morale/mental-health, etc. When individual work thread become blocked, or stuck in a miscommunication loop, often a short pairing or mobbing session is the solution.
-
-### Is mobbing like pairing with more people?
-
-Yes, but it also a bit more disciplined. It is easier for two people to find a social equilibrium that works for them than it is for 3-4+. The roles prescribed by mobbing are designed to [turn up the good](turn-up-the-good.md).
-
-### How does mobbing differ from a hackathon?
-
-Hackathons usually involve multiple teams working on different projects, often in competition. Mob focus on a single goal, as a single team, using a single keyboard. 
 
 ## How do we mob?
 
@@ -40,7 +30,16 @@ Appoint or otherwise decide-upon a [Facilitator](https://github.com/michaelkeeli
 - [Mob Programming Patterns](https://github.com/michaelkeeling/mob-programming-patterns) — Michael Keeling.
 - [Harvesting Mob Programming Patterns: Observing how we work](https://www.agilealliance.org/resources/experience-reports/harvesting-mob-programming-patterns-observing-how-we-work/) — Michael Keeling & Joe Runde.
 
+## FAQs
+
+### Is mobbing like pairing with more people?
+
+Yes, but it also a bit more disciplined. It is easier for two people to find a workable social equilibrium, than it is for 3-4+ people. The roles prescribed by mobbing are designed to [turn up the good](turn-up-the-good.md).
+
+### How does mobbing differ from a hackathon?
+
+Hackathons usually involve multiple teams working on different projects, often in competition. Mobs work in cooperation, focused on a single goal, as a single team, using a single keyboard. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNzI3OTE2NSwtMTQ3MTg1ODE4MSwxMz
-U0NjY4OTYzXX0=
+eyJoaXN0b3J5IjpbLTIxMDAwOTUyMDUsLTE0NzE4NTgxODEsMT
+M1NDY2ODk2M119
 -->
