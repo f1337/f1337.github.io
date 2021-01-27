@@ -6,9 +6,18 @@
 
 — Marcus Hammarberg, [Mob programming – Full Team, Full Throttle](http://codebetter.com/marcushammarberg/2013/08/06/mob-programming/)
 
-## When do we mob?
+## FAQs
+
+### When do we mob?
 
 When we think the cost for mobbing will be less than the cost of working siloed. Sometimes working in individual threads is better: more efficient, better for morale/mental-health, etc. When individual work thread become blocked, or stuck in a miscommunication loop, often a short pairing or mobbing session is the solution.
+
+### How does mobbing differ from a hackathon?
+
+### Is mobbing like pairing with more people?
+
+Yes, but it also a bit more structured. 
+
 
 ## How do we mob?
 
@@ -31,6 +40,6 @@ Appoint or otherwise decide-upon a [Facilitator](https://github.com/michaelkeeli
 - [Harvesting Mob Programming Patterns: Observing how we work](https://www.agilealliance.org/resources/experience-reports/harvesting-mob-programming-patterns-observing-how-we-work/) — Michael Keeling & Joe Runde.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNDI3MDIxNSwtMTQ3MTg1ODE4MSwxMz
+eyJoaXN0b3J5IjpbMTUyOTY1OTcwNSwtMTQ3MTg1ODE4MSwxMz
 U0NjY4OTYzXX0=
 -->
