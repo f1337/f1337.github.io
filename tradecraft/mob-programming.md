@@ -8,7 +8,7 @@
 
 ## When do we mob?
 
-
+- Mobbing isn't free: It has a cost in human hours, 
 
 ## How do we mob?
 
@@ -31,6 +31,6 @@ Appoint or otherwise decide-upon a [Facilitator](https://github.com/michaelkeeli
 - [Harvesting Mob Programming Patterns: Observing how we work](https://www.agilealliance.org/resources/experience-reports/harvesting-mob-programming-patterns-observing-how-we-work/) — Michael Keeling & Joe Runde.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5NDQ3Mzg2NiwtMTQ3MTg1ODE4MSwxMz
+eyJoaXN0b3J5IjpbMjA4NTI2NDgwOCwtMTQ3MTg1ODE4MSwxMz
 U0NjY4OTYzXX0=
 -->
