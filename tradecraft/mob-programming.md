@@ -8,7 +8,7 @@
 
 ## When do we mob?
 
-When we think the cost for mobbing will be less than the cost of working siloed. Sometimes working in individual threads is better: more efficient, better for morale/mental-health, etc. Sometimes individual threads get blocked, or stuck in a miscommunication loop, 
+When we think the cost for mobbing will be less than the cost of working siloed. Sometimes working in individual threads is better: more efficient, better for morale/mental-health, etc. When individual work thread become blocked, or stuck in a miscommunication loop, often a short pairing or mobbing session is the solution.
 
 ## How do we mob?
 
@@ -31,6 +31,6 @@ Appoint or otherwise decide-upon a [Facilitator](https://github.com/michaelkeeli
 - [Harvesting Mob Programming Patterns: Observing how we work](https://www.agilealliance.org/resources/experience-reports/harvesting-mob-programming-patterns-observing-how-we-work/) — Michael Keeling & Joe Runde.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMyODQ4MTY0LC0xNDcxODU4MTgxLDEzNT
-Q2Njg5NjNdfQ==
+eyJoaXN0b3J5IjpbLTQxNDI3MDIxNSwtMTQ3MTg1ODE4MSwxMz
+U0NjY4OTYzXX0=
 -->
