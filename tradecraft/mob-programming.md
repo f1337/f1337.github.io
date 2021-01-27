@@ -1,10 +1,16 @@
 # Mob Programming
 
+## What is Mob Programming?
+
 > The basic concept of mob programming is simple: the entire team works as a team together on one task at the time. That is: one team – one (active) keyboard – one screen.
 
 — Marcus Hammarberg, [Mob programming – Full Team, Full Throttle](http://codebetter.com/marcushammarberg/2013/08/06/mob-programming/)
 
-## Rhythm
+## When do we mob?
+
+
+
+## How do we mob?
 
 Appoint or otherwise decide-upon a [Facilitator](https://github.com/michaelkeeling/mob-programming-patterns#patterns). At the start of the mob session, and then at every swap, the Facilitator reminds the group to do the following:
 
@@ -25,6 +31,6 @@ Appoint or otherwise decide-upon a [Facilitator](https://github.com/michaelkeeli
 - [Harvesting Mob Programming Patterns: Observing how we work](https://www.agilealliance.org/resources/experience-reports/harvesting-mob-programming-patterns-observing-how-we-work/) — Michael Keeling & Joe Runde.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2MzkxNDMzNCwtMTQ3MTg1ODE4MSwxMz
+eyJoaXN0b3J5IjpbMTk5NDQ3Mzg2NiwtMTQ3MTg1ODE4MSwxMz
 U0NjY4OTYzXX0=
 -->
