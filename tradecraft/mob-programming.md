@@ -16,7 +16,7 @@ When we think the cost for mobbing will be less than the cost of working siloed.
 
 ### Is mobbing like pairing with more people?
 
-Yes, but it also a bit more structured. 
+Yes, but it also a bit more structured. It is easier for two people to find a social equilibrium that works for them than it is for 3-4+. The additional structure 
 
 
 ## How do we mob?
@@ -40,6 +40,6 @@ Appoint or otherwise decide-upon a [Facilitator](https://github.com/michaelkeeli
 - [Harvesting Mob Programming Patterns: Observing how we work](https://www.agilealliance.org/resources/experience-reports/harvesting-mob-programming-patterns-observing-how-we-work/) — Michael Keeling & Joe Runde.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyOTY1OTcwNSwtMTQ3MTg1ODE4MSwxMz
-U0NjY4OTYzXX0=
+eyJoaXN0b3J5IjpbOTE2NDg1MjgwLC0xNDcxODU4MTgxLDEzNT
+Q2Njg5NjNdfQ==
 -->
