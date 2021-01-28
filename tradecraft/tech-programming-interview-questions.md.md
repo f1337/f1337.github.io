@@ -54,16 +54,18 @@ and also via [@dyoder](https://twitter.com/dyoder):
 
 > i will also sometimes drill down more on subjects where a candidate claims to be strong. the theory is that if you can’t talk to things where you’re most confident you probably are overstating your abilities. but perhaps more importantly it gives candidates a chance to get some positive momentum. i want to see what their ceiling is, not the floor.
 
-## 
+## Role-specific
 
 From my friend and former colleague [@ph0rque](https://twitter.com/ph0rque)
 
 > As far as technical interview questions, I like to ask general questions that roughly approximate what we as a company are trying to solve. E.g: "how do you troubleshoot memory issues or performance issues?" (if the company is hiring an engineer that would help us fix those issues).
 
-and
+## WHO
 
-> For general culture / "good human" questions, I like the WHO book method (but I do it much more informally): [https://whothebook.com/](https://whothebook.com/)  
+also via [@ph0rque](https://twitter.com/ph0rque)
+
+> For general culture / "good human" questions, I like the [WHO book method]((https://whothebook.com/)), but I do it much more informally:
 > Basically, starting at their latest job and working backwards, I ask a few probing questions about not just what they did, but how it was working with their team, their boss, any direct reports, etc. The purpose is to get a picture if they were actually as good as they claimed they were, and if they are a**holes or pleasant people to work with.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1MTc3NjEwNV19
+eyJoaXN0b3J5IjpbMTkxMDAwMzI5NF19
 -->
