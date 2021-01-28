@@ -66,6 +66,11 @@ also via [@ph0rque](https://twitter.com/ph0rque)
 
 > For general culture / "good human" questions, I like the [WHO book method]((https://whothebook.com/)), but I do it much more informally:
 > Basically, starting at their latest job and working backwards, I ask a few probing questions about not just what they did, but how it was working with their team, their boss, any direct reports, etc. The purpose is to get a picture if they were actually as good as they claimed they were, and if they are a**holes or pleasant people to work with.
+
+
+----------
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxMDAwMzI5NF19
+eyJoaXN0b3J5IjpbNDYzNDU2MDM2XX0=
 -->
