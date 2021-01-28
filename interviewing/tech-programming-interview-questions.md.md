@@ -58,13 +58,10 @@ From my friend and former colleague [@ph0rque](https://twitter.com/ph0rque)
 
 > As far as technical interview questions, I like to ask general questions that roughly approximate what we as a company are trying to solve. E.g: "how do you troubleshoot memory issues or performance issues?" (if the company is hiring an engineer that would help us fix those issues).
 
-
-
-
-Another from [@ph0rque](https://github.com/ph0rque):
+and
 
 > For general culture / "good human" questions, I like the WHO book method (but I do it much more informally): [https://whothebook.com/](https://whothebook.com/)  
 > Basically, starting at their latest job and working backwards, I ask a few probing questions about not just what they did, but how it was working with their team, their boss, any direct reports, etc. The purpose is to get a picture if they were actually as good as they claimed they were, and if they are a**holes or pleasant people to work with.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MjE0MTMzM119
+eyJoaXN0b3J5IjpbLTM3ODgyNDIyMF19
 -->
