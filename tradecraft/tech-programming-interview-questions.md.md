@@ -2,13 +2,13 @@
 
 _These are my favorite interview questions. They don’t include coding problems, at all. You can learn that stuff better from [interviewcake.com](https://interviewcake.com) than from me anyway._ :slightly_smiling_face:
 
----
+## A difficult problem
 
 > Tell me about a particularly difficult problem you solved recently – technical or not. Give me the gory details.
 
 ^ I ask a lot of probing questions based on the answer.
 
----
+## Biggest win/loss
 
 > What accomplishment in your career or life are you most proud of?
 > Tell me about a professional mistake you made recently, one with consequences, and how you resolved it.
@@ -63,5 +63,5 @@ and
 > For general culture / "good human" questions, I like the WHO book method (but I do it much more informally): [https://whothebook.com/](https://whothebook.com/)  
 > Basically, starting at their latest job and working backwards, I ask a few probing questions about not just what they did, but how it was working with their team, their boss, any direct reports, etc. The purpose is to get a picture if they were actually as good as they claimed they were, and if they are a**holes or pleasant people to work with.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODc2NzIzNjZdfQ==
+eyJoaXN0b3J5IjpbMjMxNTIyMjc5XX0=
 -->
