@@ -39,20 +39,22 @@ Back to general technical interview questions:
 
 From my friend and former colleague [@bricelenza](https://twitter.com/bricelenza):
 
-> Biggest thing I’ve learned interviewing at AWS for 4 years is the effectiveness of the [STAR method](https://www.themuse.com/advice/star-interview-method)
+> The biggest thing I’ve learned interviewing at AWS for 4 years is the effectiveness of the [STAR method](https://www.themuse.com/advice/star-interview-method).
 > And really focusing on the individual role and contributions of the interviewee. A lot of candidates will fall back to “we” when describing what was done, it becomes unclear what the candidate actually brings to the situation.
 
----
+## Why diversity?
 
 From my friend and former boss [@dyoder](https://twitter.com/dyoder):
 
 > why is diversity important to you?
 
-and
+## Nerd-out on strengths
+
+and also via [@dyoder](https://twitter.com/dyoder):
 
 > i will also sometimes drill down more on subjects where a candidate claims to be strong. the theory is that if you can’t talk to things where you’re most confident you probably are overstating your abilities. but perhaps more importantly it gives candidates a chance to get some positive momentum. i want to see what their ceiling is, not the floor.
 
----
+## 
 
 From my friend and former colleague [@ph0rque](https://twitter.com/ph0rque)
 
@@ -63,5 +65,5 @@ and
 > For general culture / "good human" questions, I like the WHO book method (but I do it much more informally): [https://whothebook.com/](https://whothebook.com/)  
 > Basically, starting at their latest job and working backwards, I ask a few probing questions about not just what they did, but how it was working with their team, their boss, any direct reports, etc. The purpose is to get a picture if they were actually as good as they claimed they were, and if they are a**holes or pleasant people to work with.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzMzMzQ0NzIzXX0=
+eyJoaXN0b3J5IjpbLTQ1MTc3NjEwNV19
 -->
