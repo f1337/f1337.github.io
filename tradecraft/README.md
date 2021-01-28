@@ -8,6 +8,7 @@ _Techniques & processes for software development, synthesized while standing upo
 - [Daily huddles](daily-huddles.md)
 - [Planning meetings](planning-meetings.md)
 - [Team meetings](team-meetings.md)
+- [Interview questions](tech-programming-interview-questions.md)
 
 ## Collaboration tools 
 
@@ -17,6 +18,6 @@ _Techniques & processes for software development, synthesized while standing upo
 - Use [mob programming](mob-programming.md) to unblock, to push through hard problems, and to share knowledge.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxMzE4NjM0MiwxMDExMTk0MDYsLTMwNz
-QzNjYyNiwtNjU2NTI5MDc3XX0=
+eyJoaXN0b3J5IjpbLTE2MDc0Mzg0NDEsLTgxMzE4NjM0MiwxMD
+ExMTk0MDYsLTMwNzQzNjYyNiwtNjU2NTI5MDc3XX0=
 -->
