@@ -19,7 +19,7 @@ But some interviewers are more interested in the technical answers. You have to 
 
 When I'm the interviewee, I give the more human-centered answers to these questions, which IME weeds out asshole employers as well as the questions weed out asshole employees when I’m the one asking.
 
----
+## Leading non-conformists
 
 The following is a question I only ask for leadership roles:
 
@@ -27,7 +27,7 @@ The following is a question I only ask for leadership roles:
 
 ^ I’m looking for folks who are all-carrot, no-stick. Again, I’ve found answering this myself with all-carrot has weeded out awful potential employers.
 
----
+## Code walk-through
 
 Back to general technical interview questions:
 
@@ -35,11 +35,11 @@ Back to general technical interview questions:
 
 ^ This is not a deal-breaker if not. The past N years my work has been closed-source, protected by NDAs, and I’ve had to carve out time to write stuff to share for interviews. It’s exhausting and not everyone has the time.
 
----
+## STAR
 
 From my friend and former colleague [@bricelenza](https://twitter.com/bricelenza):
 
-> Biggest thing I’ve learned interviewing at AWS for 4 years is the effectiveness of the STAR method: [https://www.themuse.com/advice/star-interview-method](https://www.themuse.com/advice/star-interview-method)  
+> Biggest thing I’ve learned interviewing at AWS for 4 years is the effectiveness of the [STAR method](https://www.themuse.com/advice/star-interview-method)
 > And really focusing on the individual role and contributions of the interviewee. A lot of candidates will fall back to “we” when describing what was done, it becomes unclear what the candidate actually brings to the situation.
 
 ---
@@ -63,5 +63,5 @@ and
 > For general culture / "good human" questions, I like the WHO book method (but I do it much more informally): [https://whothebook.com/](https://whothebook.com/)  
 > Basically, starting at their latest job and working backwards, I ask a few probing questions about not just what they did, but how it was working with their team, their boss, any direct reports, etc. The purpose is to get a picture if they were actually as good as they claimed they were, and if they are a**holes or pleasant people to work with.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjMxNTIyMjc5XX0=
+eyJoaXN0b3J5IjpbMzMzMzQ0NzIzXX0=
 -->
