@@ -2,6 +2,8 @@
 
 ## Sonic Pi
 
+_I am currently tinkering with [Sonic Pi](https://sonic-pi.net). Right now it's recreations of popular music. 
+
 https://github.com/f1337/music
 
 ## Albums
@@ -21,6 +23,6 @@ _I was in an indie rock band during the late 1990s and early 2000s. We made some
 
 https://www.amazon.com/Irish-Coffee-Adam/dp/B000CA9WS4
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjM1Mzc3OTgsMTk3OTQ5OTk4MCwxMD
-I0OTIzOTMzLDEwMzMyMjQ5MzBdfQ==
+eyJoaXN0b3J5IjpbOTc3MjU3NDUwLDE5Nzk0OTk5ODAsMTAyND
+kyMzkzMywxMDMzMjI0OTMwXX0=
 -->
