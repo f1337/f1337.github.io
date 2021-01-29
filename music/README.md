@@ -14,6 +14,8 @@ _I was in an indie rock band during the late 1990s and early 2000s. We made some
 - [Spotify](https://open.spotify.com/album/4U8QKNZXmOZgDzHDm6RDoe)
 
 ### irish coffee (1996)
+
+https://www.amazon.com/Irish-Coffee-Adam/dp/B000CA9WS4
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMzIyNDkzMF19
+eyJoaXN0b3J5IjpbMTgxNzE1NTEzLDEwMzMyMjQ5MzBdfQ==
 -->
