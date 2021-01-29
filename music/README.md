@@ -2,6 +2,8 @@
 
 ## Sonic Pi
 
+https://github.com/f1337/music
+
 ## Albums
 
 _I was in an indie rock band during the late 1990s and early 2000s. We made some recordings, toured the lower 48 U.S., started to chart AAA & college radio, had albums in Tower Records… and then our distributor went bankrupt (they were embezzling), which caused the label to go bankrupt, and eventually the band disbanded from the disappointment._
@@ -17,5 +19,5 @@ _I was in an indie rock band during the late 1990s and early 2000s. We made some
 
 https://www.amazon.com/Irish-Coffee-Adam/dp/B000CA9WS4
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNzE1NTEzLDEwMzMyMjQ5MzBdfQ==
+eyJoaXN0b3J5IjpbMTAyNDkyMzkzMywxMDMzMjI0OTMwXX0=
 -->
