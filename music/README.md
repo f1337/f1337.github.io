@@ -10,6 +10,8 @@ _I was in an indie rock band during the late 1990s and early 2000s. We made some
 
 ### shin jin rui (1998)
 
+![https://is3-ssl.mzstatic.com/image/thumb/Music/y2003/m12/d11/h20/s05.neshiner.tif/300x300bb.webp]
+
 - [Apple Music](https://music.apple.com/us/album/shin-jin-rui/4058385)
 - [Amazon Music](https://www.amazon.com/Shin-Jin-Rui-Adam/dp/B0012D80EC)
 - [YouTube Music](https://music.youtube.com/playlist?list=OLAK5uy_m02SZ1HMI0pda5YiU8c7BJQv9niXYHDpU)
@@ -19,5 +21,6 @@ _I was in an indie rock band during the late 1990s and early 2000s. We made some
 
 https://www.amazon.com/Irish-Coffee-Adam/dp/B000CA9WS4
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNDkyMzkzMywxMDMzMjI0OTMwXX0=
+eyJoaXN0b3J5IjpbMjEzNjQyMTYwMywxMDI0OTIzOTMzLDEwMz
+MyMjQ5MzBdfQ==
 -->
