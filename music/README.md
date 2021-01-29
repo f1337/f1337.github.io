@@ -4,7 +4,14 @@
 
 ## Albums
 
-_I was in a band during the late 1990s and early 2000s. We made some recordings, toured the lower 48 U.S., started to chart AAA & college radio, had albums in Tower Records… and then our distributor went bankrupt (they were embezzling), which caused the label to go bankrupt, and eventually the band fell apart from the disappoint._
+_I was in a band during the late 1990s and early 2000s. We made some recordings, toured the lower 48 U.S., started to chart AAA & college radio, had albums in Tower Records… and then our distributor went bankrupt (they were embezzling), which caused the label to go bankrupt, and eventually the band disbanded from the disappointment._
+
+### (shin jin rui)
+
+- [Apple Music](https://music.apple.com/us/album/shin-jin-rui/4058385)
+- [Amazon Music](https://www.amazon.com/Shin-Jin-Rui-Adam/dp/B0012D80EC)
+- [YouTube Music](https://music.youtube.com/playlist?list=OLAK5uy_m02SZ1HMI0pda5YiU8c7BJQv9niXYHDpU)
+- [Spotify](https://open.spotify.com/album/4U8QKNZXmOZgDzHDm6RDoe)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDI3MTUzOF19
+eyJoaXN0b3J5IjpbLTEwOTQ0MTAwODldfQ==
 -->
