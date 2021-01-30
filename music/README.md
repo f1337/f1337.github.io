@@ -9,7 +9,7 @@ _I am currently tinkering with [Sonic Pi](https://sonic-pi.net). Lately I've bee
 
 ## Albums
 
-_I was in an indie rock band during the late 1990s. We made some recordings, toured the continental U.S., started to chart AAA & college radio, had albums in Tower Records… and then our distributor went bankrupt (they were embezzling), which caused the label to go bankrupt, and eventually the band disbanded from the disappointment._
+_I was in an indie rock band during the late 1990s. We made some recordings, toured the continental U.S., charted AAA & college radio, had albums in Tower Records… and then our distributor went bankrupt (they were embezzling), which caused the label to go bankrupt, and eventually the band disbanded from the disappointment._
 
 ### shin jin rui (1998)
 
@@ -24,7 +24,7 @@ _I was in an indie rock band during the late 1990s. We made some recordings, tou
 
 https://www.amazon.com/Irish-Coffee-Adam/dp/B000CA9WS4
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5MDA2MzU5OSwyMjEzNjIwNDEsNjczNj
-Y4MDA0LDE5Nzk0OTk5ODAsMTAyNDkyMzkzMywxMDMzMjI0OTMw
-XX0=
+eyJoaXN0b3J5IjpbLTE3ODYxOTc3NjIsMjIxMzYyMDQxLDY3Mz
+Y2ODAwNCwxOTc5NDk5OTgwLDEwMjQ5MjM5MzMsMTAzMzIyNDkz
+MF19
 -->
