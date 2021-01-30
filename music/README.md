@@ -23,9 +23,9 @@ _I was in an indie rock band during the 1990s. We made some recordings, toured t
 
 ### irish coffee (1996)
 
-https://www.amazon.com/Irish-Coffee-Adam/dp/B000CA9WS4
+Out of print, and unavailable on streaming platforms. But there are [used copies](https://www.amazon.com/Irish-Coffee-Adam/dp/B000CA9WS4) floating about.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNTg1NjE2MCwtMTYyODMxODYwNCwyMj
-EzNjIwNDEsNjczNjY4MDA0LDE5Nzk0OTk5ODAsMTAyNDkyMzkz
-MywxMDMzMjI0OTMwXX0=
+eyJoaXN0b3J5IjpbNzEwMjkyMzA3LC0xNjI4MzE4NjA0LDIyMT
+M2MjA0MSw2NzM2NjgwMDQsMTk3OTQ5OTk4MCwxMDI0OTIzOTMz
+LDEwMzMyMjQ5MzBdfQ==
 -->
