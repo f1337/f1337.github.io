@@ -16,6 +16,8 @@ _I was in an indie rock band during the 1990s. We made some recordings, toured t
 
 ### shin jin rui (1998)
 
+_Our self-funded full-length. Available to stream on the following platforms, and more:_
+
 - [Apple Music](https://music.apple.com/us/album/shin-jin-rui/4058385)
 - [Amazon Music](https://www.amazon.com/Shin-Jin-Rui-Adam/dp/B0012D80EC)
 - [YouTube Music](https://music.youtube.com/playlist?list=OLAK5uy_m02SZ1HMI0pda5YiU8c7BJQv9niXYHDpU)
@@ -25,7 +27,7 @@ _I was in an indie rock band during the 1990s. We made some recordings, toured t
 
 Out of print, and unavailable on streaming platforms. But there are [used copies](https://www.amazon.com/Irish-Coffee-Adam/dp/B000CA9WS4) floating about.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODg5MjEwMDksLTE2MjgzMTg2MDQsMj
+eyJoaXN0b3J5IjpbLTE3Njc5OTI4MDcsLTE2MjgzMTg2MDQsMj
 IxMzYyMDQxLDY3MzY2ODAwNCwxOTc5NDk5OTgwLDEwMjQ5MjM5
 MzMsMTAzMzIyNDkzMF19
 -->
