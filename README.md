@@ -6,13 +6,13 @@ My name is Michael Fleet. I'm a software polyglot, hardware tinkerer, and musici
 
 Things that I have written which may interest you:
 
-- [Tradecraft](tradecraft/README.md): Techniques & processes for software development.
+- [Tradecraft](tradecraft/README.md): Techniques & processes for software development I've collected over 20+ years in the craft.
 - [Music](https://github.com/f1337/music): I was in an indie rock band during the 1990s. More recently I've been making music with Sonic Pi.
 - Perhaps even my [scratchpad of less organized thoughts](scratchpad/README.md).
 - Credentials: [resume/CV](cv/), [patents](cv/#patents), [github](https://github.com/f1337), [linkedin](https://linkedin.com/in/f1337).
 - My [twitter](https://twitter.com/mrf1337) is an un-curated mix of software, infosec, mental health, mysticism, and christian leftist politics. I am as often full of 💩 on there as not. I mean well, but don't always do as well as I'd like. I auto-delete tweets after a year. YMMV, and your opinion of me may never be the same. Caveat emptor.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1NjA3ODUxOCwxMjg3NzUyNjQwLDMzMT
-MyOTMyXX0=
+eyJoaXN0b3J5IjpbLTE2NTYxMTM4NDcsMTI4Nzc1MjY0MCwzMz
+EzMjkzMl19
 -->
