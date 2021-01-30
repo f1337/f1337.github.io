@@ -25,9 +25,10 @@ _Our self-funded full-length. Available to stream on the following platforms, an
 
 ### irish coffee (1996)
 
+_Our 
 Out of print, and unavailable on streaming platforms. But there are [used copies](https://www.amazon.com/Irish-Coffee-Adam/dp/B000CA9WS4) floating about.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Njc5OTI4MDcsLTE2MjgzMTg2MDQsMj
-IxMzYyMDQxLDY3MzY2ODAwNCwxOTc5NDk5OTgwLDEwMjQ5MjM5
-MzMsMTAzMzIyNDkzMF19
+eyJoaXN0b3J5IjpbMTAzNjUwMzEyLC0xNjI4MzE4NjA0LDIyMT
+M2MjA0MSw2NzM2NjgwMDQsMTk3OTQ5OTk4MCwxMDI0OTIzOTMz
+LDEwMzMyMjQ5MzBdfQ==
 -->
