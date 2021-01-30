@@ -7,7 +7,11 @@ _I am currently tinkering with [Sonic Pi](https://sonic-pi.net). Lately I've bee
 - [soundcloud](https://soundcloud.com/f1337)
 - [source code](https://github.com/f1337/music)
 
-## Albums
+## video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XQ4EIq69_YI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## albums
 
 _I was in an indie rock band during the 1990s. We made some recordings, toured the continental U.S., charted AAA & college radio, had albums in Tower Records… and then our distributor went bankrupt (they were embezzling), which caused the label to go bankrupt, and eventually the band disbanded from the disappointment._
 
@@ -27,7 +31,7 @@ Our full-length album. Available to stream on the following platforms, and more:
 
 Our out of print EP, which is unavailable on streaming platforms. There are [used copies](https://www.amazon.com/Irish-Coffee-Adam/dp/B000CA9WS4) floating about.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjYwMzI3MDU5LC0xNjI4MzE4NjA0LDIyMT
-M2MjA0MSw2NzM2NjgwMDQsMTk3OTQ5OTk4MCwxMDI0OTIzOTMz
-LDEwMzMyMjQ5MzBdfQ==
+eyJoaXN0b3J5IjpbMjg3NjA5NDk0LDY2MDMyNzA1OSwtMTYyOD
+MxODYwNCwyMjEzNjIwNDEsNjczNjY4MDA0LDE5Nzk0OTk5ODAs
+MTAyNDkyMzkzMywxMDMzMjI0OTMwXX0=
 -->
