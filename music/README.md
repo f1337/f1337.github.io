@@ -1,10 +1,11 @@
 # Music
 
-## Sonic Pi
+## music_as :code
 
 _I am currently tinkering with [Sonic Pi](https://sonic-pi.net). Lately I've been making recreations of popular songs in code. I may eventually put some originals up too._
 
-https://github.com/f1337/music
+- [soundcloud](https://soundcloud.com/f1337)
+- [source code](https://github.com/f1337/music)
 
 ## Albums
 
@@ -23,6 +24,7 @@ _I was in an indie rock band during the late 1990s and early 2000s. We made some
 
 https://www.amazon.com/Irish-Coffee-Adam/dp/B000CA9WS4
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIxMzYyMDQxLDY3MzY2ODAwNCwxOTc5ND
-k5OTgwLDEwMjQ5MjM5MzMsMTAzMzIyNDkzMF19
+eyJoaXN0b3J5IjpbODgyMjY4OTYyLDIyMTM2MjA0MSw2NzM2Nj
+gwMDQsMTk3OTQ5OTk4MCwxMDI0OTIzOTMzLDEwMzMyMjQ5MzBd
+fQ==
 -->
