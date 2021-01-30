@@ -13,7 +13,7 @@ _I was in an indie rock band during the late 1990s. We made some recordings, tou
 
 ### shin jin rui (1998)
 
-<div style="float: right;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Music/y2003/m12/d11/h20/s05.neshiner.tif/300x300bb.webp" alt="album cover, woman lying down, face and l" />
+<div style="float: right;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Music/y2003/m12/d11/h20/s05.neshiner.tif/300x300bb.webp" alt="album cover, woman lying down, face and legs obscured" />
 </div>
 
 - [Apple Music](https://music.apple.com/us/album/shin-jin-rui/4058385)
@@ -25,7 +25,7 @@ _I was in an indie rock band during the late 1990s. We made some recordings, tou
 
 https://www.amazon.com/Irish-Coffee-Adam/dp/B000CA9WS4
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTkzMDEzNzkyLC0xNjI4MzE4NjA0LDIyMT
-M2MjA0MSw2NzM2NjgwMDQsMTk3OTQ5OTk4MCwxMDI0OTIzOTMz
-LDEwMzMyMjQ5MzBdfQ==
+eyJoaXN0b3J5IjpbLTc0NTgwODMwMiwtMTYyODMxODYwNCwyMj
+EzNjIwNDEsNjczNjY4MDA0LDE5Nzk0OTk5ODAsMTAyNDkyMzkz
+MywxMDMzMjI0OTMwXX0=
 -->
