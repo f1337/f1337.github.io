@@ -9,10 +9,10 @@ _I am currently tinkering with [Sonic Pi](https://sonic-pi.net). Lately I've bee
 
 ## Albums
 
+_I was in an indie rock band during the 1990s. We made some recordings, toured the continental U.S., charted AAA & college radio, had albums in Tower Records… and then our distributor went bankrupt (they were embezzling), which caused the label to go bankrupt, and eventually the band disbanded from the disappointment._
+
 <div style="float: right;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Music/y2003/m12/d11/h20/s05.neshiner.tif/300x300bb.webp" alt="album cover, woman lying down, face and legs obscured" />
 </div>
-
-_I was in an indie rock band during the 1990s. We made some recordings, toured the continental U.S., charted AAA & college radio, had albums in Tower Records… and then our distributor went bankrupt (they were embezzling), which caused the label to go bankrupt, and eventually the band disbanded from the disappointment._
 
 ### shin jin rui (1998)
 
@@ -25,7 +25,7 @@ _I was in an indie rock band during the 1990s. We made some recordings, toured t
 
 Out of print, and unavailable on streaming platforms. But there are [used copies](https://www.amazon.com/Irish-Coffee-Adam/dp/B000CA9WS4) floating about.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzEwMjkyMzA3LC0xNjI4MzE4NjA0LDIyMT
-M2MjA0MSw2NzM2NjgwMDQsMTk3OTQ5OTk4MCwxMDI0OTIzOTMz
-LDEwMzMyMjQ5MzBdfQ==
+eyJoaXN0b3J5IjpbLTExODg5MjEwMDksLTE2MjgzMTg2MDQsMj
+IxMzYyMDQxLDY3MzY2ODAwNCwxOTc5NDk5OTgwLDEwMjQ5MjM5
+MzMsMTAzMzIyNDkzMF19
 -->
