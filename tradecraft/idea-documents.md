@@ -24,11 +24,9 @@ Anyone! Idea Documents are intended to be used by everyone, including product ma
 
 This is a good template: [https://josiahhester.com/cpsc462_682/deliverable1_example1.pdf](https://josiahhester.com/cpsc462_682/deliverable1_example1.pdf)
 
-We will create a GitHub and/or Confluence template from the above, soon.
-
 ## Where do we publish Idea Documents? Where do I find them?
 
-TBD.
+Use GitHub issues, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzY3NDAwODBdfQ==
+eyJoaXN0b3J5IjpbMTIyNjkwODgyOCwtMTA3Njc0MDA4MF19
 -->
