@@ -16,6 +16,8 @@ This is a stub, re-capping a process I recently used to map a complex process at
 - Use purple to denote the expected, roughly predictable dependencies.
 - Use pink notes for risks.
 - Use yellow notes for time-boxed activities.
+
+INSERT DRAWING THAT MAKES THE ABOVE MAKE SENSE
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0MDY1MzQ5MV19
+eyJoaXN0b3J5IjpbMTEzMDQ4MjkzNF19
 -->
