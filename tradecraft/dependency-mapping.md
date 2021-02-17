@@ -1,6 +1,6 @@
 # Project Dependency Mapping
 
-This is a stub, re-capping a process I recently used to map a complex process at the VA. I learned this from Michael Keeling  complete, but there is enough here to prompt questions. Enjoy, and as always, YMMV!
+This is a stub, re-capping a process I recently used to map a complex process at the VA. I borrowed this tool from Michael Keeling, when we worked together at LendingHome. It's similar to the Event Storming Eric Evans It complete, but there is enough here to prompt questions. Enjoy, and as always, YMMV!
 
 ## Process
 
@@ -17,5 +17,5 @@ This is a stub, re-capping a process I recently used to map a complex process at
 - Pink notes are risks.
 - Yellow notes are time-boxed activities.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3OTU2Mjk2NV19
+eyJoaXN0b3J5IjpbMjk2NzIyMzY3XX0=
 -->
