@@ -20,9 +20,14 @@ We will publish an ADR any time we make a technical or architectural decision wh
 
 ## How do we write an ADR
 
+### via Web Browser
+
+### via Command Line
+
 1. [Install adr-tools](https://github.com/npryce/adr-tools/blob/master/INSTALL.md).
-2. `adr new summarize the decision`
-3. Edit the file created by the above command, commit it to a branch, and submit a PR.
+2. `cd` to the local git reposit
+3. `adr new summarize the decision`
+4. Edit the file created by the above command, commit it to a branch, and submit a PR.
 
 ## Example ADR templates
 
@@ -36,5 +41,5 @@ We will publish an ADR any time we make a technical or architectural decision wh
 - [GitHub ADR organization](https://adr.github.io/)
 - [Cognitect: Documenting Architecture Decisions](https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5NjY4NDg2NV19
+eyJoaXN0b3J5IjpbLTUzMzYxODI4XX0=
 -->
