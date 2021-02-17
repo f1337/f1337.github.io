@@ -26,7 +26,7 @@ This is a good template: [https://josiahhester.com/cpsc462_682/deliverable1_exam
 
 ## Where do we publish Idea Documents? Where do I find them?
 
-Use GitHub issues, 
+Use GitHub issues, or commit them to the source code directly.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNjkwODgyOCwtMTA3Njc0MDA4MF19
+eyJoaXN0b3J5IjpbMTAxMzAyOTg2NiwtMTA3Njc0MDA4MF19
 -->
