@@ -16,7 +16,7 @@ We will publish an ADR any time we make a technical or architectural decision wh
 - it is difficult or time-consuming to reverse
 - we don’t want it reversed without due consideration (for whatever reason)
 - we want to remember why we made the decision
-- because we feel like it is important to document
+- we want to share with others
 
 ## How do we write an ADR
 
@@ -37,5 +37,5 @@ We will publish an ADR any time we make a technical or architectural decision wh
 - [GitHub ADR organization](https://adr.github.io/)
 - [Cognitect: Documenting Architecture Decisions](https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTk0OTkxNTFdfQ==
+eyJoaXN0b3J5IjpbOTMxMDkxMTAsLTExOTk0OTkxNTFdfQ==
 -->
