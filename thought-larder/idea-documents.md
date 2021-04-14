@@ -22,11 +22,24 @@ Anyone! Idea Documents are intended to be used by everyone, including product ma
 
 ## How to write an Idea Document?
 
-It will create an Idea Document, using a Confluence template. The template was created by @Michael Fleet, derived from prior art by [Josiah Hester](https://josiahhester.com/cpsc462_682/deliverable1_example1.pdf "https://josiahhester.com/cpsc462_682/deliverable1_example1.pdf"), [Kurt Braget](https://paper.dropbox.com/doc/The-Awesome-Idea-Template-JD0zJytnLIWqSkfoG0msf "https://paper.dropbox.com/doc/The-Awesome-Idea-Template-JD0zJytnLIWqSkfoG0msf"), and @Dror Matalon.
+This is my basic template, based on prior art by [Josiah Hester](https://josiahhester.com/cpsc462_682/deliverable1_example1.pdf "https://josiahhester.com/cpsc462_682/deliverable1_example1.pdf"), [Kurt Braget](https://paper.dropbox.com/doc/The-Awesome-Idea-Template-JD0zJytnLIWqSkfoG0msf "https://paper.dropbox.com/doc/The-Awesome-Idea-Template-JD0zJytnLIWqSkfoG0msf"), and @Dror Matalon.
+
+💡 **The name of the idea**
+✏️ Description - a short elevator pitch
+💩 Problem
+🎉 Solution 
+✅ What Objective(s) does it serve
+👿 Bad things about this idea (1-2 sentences)
+😇 Good things about this idea (1-2 sentences)
+🕐 Estimated effort (t-shirt size: S, M, L, XL)
+💵 Estimated costs (estimate)
+🎖 Expected impact to customers (1-2 sentences)
+❤️ Who likes this? (comma, separated, names)
 
 ## Where do we publish Idea Documents? Where do I find them?
 
 Use GitHub issues, or commit them to the source code directly.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDIxNjMwMTEsMjU2MTQ2NTQ0XX0=
+eyJoaXN0b3J5IjpbLTEwMTE2ODYyNDUsLTExNDIxNjMwMTEsMj
+U2MTQ2NTQ0XX0=
 -->
