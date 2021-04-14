@@ -15,8 +15,8 @@ _Techniques & processes for software development, synthesized while standing upo
 - Document decisions ([ADRs](architectural-decision-records.md), [etc.](flowchart.md)) in one accessible, searchable location.
 - Use [idea documents](idea-documents.md) to share & vet ideas.
 - Use [mob programming](mob-programming.md) to unblock, to push through hard problems, and to share knowledge.
-- 
+- Whether one is refactoring or troubleshooting, ENOF is often enough: solve the Easiest Nearest Owwie First.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0NDkwMTM5NiwtMTI3OTY0MTI0NV19
+eyJoaXN0b3J5IjpbMTA0Mjc5ODcyMywtMTI3OTY0MTI0NV19
 -->
