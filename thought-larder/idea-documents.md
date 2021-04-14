@@ -2,7 +2,7 @@
 
 ## What are they?
 
-A short structured document to help determine how useful and achievable an idea is.
+Idea documents provide a short structured format, designed to help facilitate group/team problem-solving.
 
 ## When might we write an Idea Document?
 
@@ -28,5 +28,5 @@ This is a good template: [https://josiahhester.com/cpsc462_682/deliverable1_exam
 
 Use GitHub issues, or commit them to the source code directly.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxMzAyOTg2Nl19
+eyJoaXN0b3J5IjpbMjU2MTQ2NTQ0XX0=
 -->
