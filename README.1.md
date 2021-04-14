@@ -11,6 +11,10 @@ Things that I have written which may interest you:
 - Perhaps even my [scratchpad of less organized thoughts](scratchpad/README.md).
 - Credentials: [resume/CV](cv/), [patents](cv/#patents), [github](https://github.com/f1337), [linkedin](https://linkedin.com/in/f1337).
 
+
+----------
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzY0NTc3NDZdfQ==
+eyJoaXN0b3J5IjpbNjQ4OTM1MDQ2XX0=
 -->
