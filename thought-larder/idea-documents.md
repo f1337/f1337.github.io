@@ -22,11 +22,11 @@ Anyone! Idea Documents are intended to be used by everyone, including product ma
 
 ## How to write an Idea Document?
 
-This is a good template: [https://josiahhester.com/cpsc462_682/deliverable1_example1.pdf](https://josiahhester.com/cpsc462_682/deliverable1_example1.pdf)
+It will create an Idea Document, using a Confluence template. The template was created by @Michael Fleet, derived from prior art by [Josiah Hester](https://josiahhester.com/cpsc462_682/deliverable1_example1.pdf "https://josiahhester.com/cpsc462_682/deliverable1_example1.pdf"), [Kurt Braget](https://paper.dropbox.com/doc/The-Awesome-Idea-Template-JD0zJytnLIWqSkfoG0msf "https://paper.dropbox.com/doc/The-Awesome-Idea-Template-JD0zJytnLIWqSkfoG0msf"), and @Dror Matalon.
 
 ## Where do we publish Idea Documents? Where do I find them?
 
 Use GitHub issues, or commit them to the source code directly.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU2MTQ2NTQ0XX0=
+eyJoaXN0b3J5IjpbLTExNDIxNjMwMTEsMjU2MTQ2NTQ0XX0=
 -->
