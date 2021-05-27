@@ -25,11 +25,17 @@ Anyone! Idea Documents are intended to be used by everyone, including product ma
 This is my basic template, based on prior art by [Josiah Hester](https://josiahhester.com/cpsc462_682/deliverable1_example1.pdf "https://josiahhester.com/cpsc462_682/deliverable1_example1.pdf"), [Kurt Braget](https://paper.dropbox.com/doc/The-Awesome-Idea-Template-JD0zJytnLIWqSkfoG0msf "https://paper.dropbox.com/doc/The-Awesome-Idea-Template-JD0zJytnLIWqSkfoG0msf"), and [Dror Matalon](https://github.com/drorva).
 
 💡 **The name of the idea**
+
 ✏️ Description - a short elevator pitch
+
 💩 Problem
+
 🎉 Solution 
+
 ✅ What Objective(s) does it serve
+
 👿 Bad things about this idea (1-2 sentences)
+
 😇 Good things about this idea (1-2 sentences)
 🕐 Estimated effort (t-shirt size: S, M, L, XL)
 💵 Estimated costs (estimate)
@@ -40,6 +46,6 @@ This is my basic template, based on prior art by [Josiah Hester](https://josiahh
 
 Use GitHub issues, or commit them to the source code directly.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5MDk4NDgyLC0xMDExNjg2MjQ1LC0xMT
-QyMTYzMDExLDI1NjE0NjU0NF19
+eyJoaXN0b3J5IjpbLTExNDA3NDk3MzgsMTE5MDk4NDgyLC0xMD
+ExNjg2MjQ1LC0xMTQyMTYzMDExLDI1NjE0NjU0NF19
 -->
