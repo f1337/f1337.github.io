@@ -46,18 +46,12 @@ Have you made an organizational/process decision? Use the built-in Confluence De
 
 For every issue, copy & paste the following template:
 
-| **A: Who is raising the issue?** |  |
-| ------------ | ------------ | -------------- |
-| Workstream 1 | On           | On             |
-| Workstream 2 | Done?        | Done!          |
-| Workstream 3 | Off          | Blocked        |
-| Workstream 4 | On Hold      | On             |
-| Workstream 5 | On           | Done!          |
-**A: Who is raising the issue?**
+| | | 
+| -| - | 
+| **A: Who is raising the issue?** |   |
+| **B: Who is accountable for solving the issue?** |   |
+| **1-sentence issue description, as stated by A to B** |     |
 
-**B: Who is accountable for solving the issue?**
-
-**1-sentence issue description, as stated by A to B**
 
 ## Conclude (5m)
 
@@ -65,5 +59,5 @@ For every issue, copy & paste the following template:
     
 2.  Are there are messages that need broadcast outside this group? If so, to whom, and who is going to do it?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjIyOTcyMjk3XX0=
+eyJoaXN0b3J5IjpbMTgwNDU5MTQxNl19
 -->
