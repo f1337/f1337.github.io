@@ -14,9 +14,10 @@ For each workstream, identify whether it is **On** track, **Off** track, **On Ho
 
 **Done**: As done as it is going to be, maintenance & bug fixes not included. Any new work will likely be a new initiative/effort.
 
-| Workstream | Prior Status | Current Status |
-| ---------- | ------------ | -------------- |
-| baz | bim |
+| Workstream   | Prior Status | Current Status |
+| ------------ | ------------ | -------------- |
+| Team 1       |
+| Initiative 1 | On           | On             |
 
 ****
 
@@ -93,5 +94,5 @@ For every issue, copy & paste the following template:
     
 2.  Are there are messages that need broadcast outside this group? If so, to whom, and who is going to do it?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4Njc1MjY0Nl19
+eyJoaXN0b3J5IjpbMTIyNzcxNjU2MF19
 -->
