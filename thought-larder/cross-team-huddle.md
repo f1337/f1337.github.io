@@ -28,9 +28,10 @@ Are there any workstreams that should be in progress, per the roadmap, but are n
 
 ## New Ideas & Decisions (5m)
 
-Do you have an idea to propose? [Write An Idea Document](idea-documents.html "https://f1337.github.io/thought-larder/idea-documents.html").  
-Have you made an architectural/technical decision? [Write An ADR](https://f1337.github.io/thought-larder/architectural-decision-records.html "https://f1337.github.io/thought-larder/architectural-decision-records.html").  
+Do you have an idea to propose? [Write An Idea Document](idea-documents.md).  
+Have you made an architectural/technical decision? [Write An ADR](architectural-decision-records.md).  
 Have you made an organizational/process decision? Use the built-in Confluence Decision template.
+
 
 ## To-Do List Review (5m)
 
@@ -52,5 +53,5 @@ For every issue, copy & paste the following template:
     
 2.  Are there are messages that need broadcast outside this group? If so, to whom, and who is going to do it?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwMzQ2MzQ4MF19
+eyJoaXN0b3J5IjpbLTcyOTc0ODU5OV19
 -->
