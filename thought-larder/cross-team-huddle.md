@@ -46,11 +46,11 @@ Have you made an organizational/process decision? Use the built-in Confluence De
 
 For every issue, copy & paste the following template:
 
-| Prompt    | Answer | 
-| ------------------------------------------------- | --- | 
-| A: Who is raising the issue?                      |   |
-| B: Who is accountable for solving the issue?      |   |
-| 1-sentence issue description, as stated by A to B |     |
+| Prompt                                            | Answer | 
+| ------------------------------------------------- | ------ | 
+| A: Who is raising the issue?                      |        |
+| B: Who is accountable for solving the issue?      |        |
+| 1-sentence issue description, as stated by A to B |        |
 
 
 ## Conclude (5m)
@@ -59,5 +59,5 @@ For every issue, copy & paste the following template:
     
 2.  Are there are messages that need broadcast outside this group? If so, to whom, and who is going to do it?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMzg4ODI0Nl19
+eyJoaXN0b3J5IjpbNDQ3MDE5MjU3XX0=
 -->
