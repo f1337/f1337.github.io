@@ -32,20 +32,18 @@ This is my basic template, based on prior art by [Josiah Hester](https://josiahh
 
 🎉 Solution 
 
-✅ What Objective(s) does it serve
-
 👿 Bad things about this idea (1-2 sentences)
 
 😇 Good things about this idea (1-2 sentences)
+
 🕐 Estimated effort (t-shirt size: S, M, L, XL)
-💵 Estimated costs (estimate)
-🎖 Expected impact to customers (1-2 sentences)
-❤️ Who likes this? (comma, separated, names)
+
+❤️ Who champions/supports this idea? (comma, separated, names)
 
 ## Where do we publish Idea Documents? Where do I find them?
 
 Use GitHub issues, or commit them to the source code directly.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDA3NDk3MzgsMTE5MDk4NDgyLC0xMD
-ExNjg2MjQ1LC0xMTQyMTYzMDExLDI1NjE0NjU0NF19
+eyJoaXN0b3J5IjpbLTQ0NTgzODQ2MywxMTkwOTg0ODIsLTEwMT
+E2ODYyNDUsLTExNDIxNjMwMTEsMjU2MTQ2NTQ0XX0=
 -->
