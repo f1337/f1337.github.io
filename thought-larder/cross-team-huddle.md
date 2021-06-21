@@ -30,17 +30,17 @@ Are there any workstreams that should be in progress, per the roadmap, but are n
 
 Do you have an idea to propose? [Write An Idea Document](idea-documents.md).  
 Have you made an architectural/technical decision? [Write An ADR](architectural-decision-records.md).  
-Have you made an organizational/process decision? Use the built-in Confluence Decision template.
+Have you made an organizational/process decision? Write a Decision .
+
+-
+
+## Customer & Team Headlines (5m)
 
 -
 
 ## To-Do List Review (5m)
 
 - [ ]
-
-## Customer & Team Headlines (5m)
-
--
 
 ## Identify, Discuss, Solve (10m)
 
@@ -59,5 +59,5 @@ For every issue, copy & paste the following template:
     
 2.  Are there are messages that need broadcast outside this group? If so, to whom, and who is going to do it?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ3MDE5MjU3XX0=
+eyJoaXN0b3J5IjpbLTExMjE2OTE3MjksNDQ3MDE5MjU3XX0=
 -->
