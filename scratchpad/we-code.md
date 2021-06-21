@@ -1,4 +1,6 @@
-i want a twitch-like experience, without verbal interruption from the peanut gallery.
+# Code Streaming
+
+i want a twitch-like experience, without verbal interruption from the peanut gallery. but private, wi
 
 chat comments are easier to ignore, and therefore less disruptive to me.
 
@@ -8,5 +10,5 @@ what are your thoughts/experiences w/ the hangouts you've been doing? can we set
 
 FWIW, i *like* verbal feedback during mobbing sessions, even from the peanut gallery. but i don't like it for those times when i'm not really trying to pair, i'm just trying to share.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1ODQwMTE3Ml19
+eyJoaXN0b3J5IjpbLTE4Njc3MjM1OF19
 -->
