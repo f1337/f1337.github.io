@@ -1,6 +1,6 @@
 # Practice Groups
 
-Note to self: Trying to split hairs betw different kinds of cooperative organization types may not be the best use of time. Co-ops could be discipline-specific?
+
 
 ## Features
 
@@ -11,7 +11,6 @@ Note to self: Trying to split hairs betw different kinds of cooperative organiza
 
 ## Anti-Features
 
-- 
 - Not guilds, or channels, or any other Spotify terms. Their jargon is overloaded with connotations that contradict the intended pattern. Plus copying [Spotify](https://www.atlassian.com/agile/agile-at-scale/spotify) isn't agile, it's [cargo-culting](https://en.wikipedia.org/wiki/Cargo_cult). Spotify's "model" works for them because, bear with me, it's _modeled_ after Spotify's unique organizational needs.
 
 ## Example practices
@@ -22,5 +21,5 @@ Note to self: Trying to split hairs betw different kinds of cooperative organiza
 - React
 - 508
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0NTk5NDc2MiwyNDk1MjYxNTNdfQ==
+eyJoaXN0b3J5IjpbOTY4OTQ4MjYzLDI0OTUyNjE1M119
 -->
