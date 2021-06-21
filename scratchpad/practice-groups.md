@@ -4,7 +4,7 @@ Note to self: Trying to split hairs betw different kinds of cooperative organiza
 
 ## Attributes
 
-- A volunteer, [cooperative effort](https://en.wikipedia.org/wiki/Cooperative) to align and share specialized expertise.
+- A volunteer, [cooperative effort](https://en.wikipedia.org/wiki/Cooperative) to establish & maintain stand specialized expertise.
 - Persistent by nature, and design.
 - Cross-team, but discipline-specific.
 - Not guilds. The word guild is overloaded with ancient connotations. Also we're not cargo-culting.
@@ -18,5 +18,5 @@ Note to self: Trying to split hairs betw different kinds of cooperative organiza
 - React
 - 508
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Mjk3MjUwOTksMjQ5NTI2MTUzXX0=
+eyJoaXN0b3J5IjpbNjIyMTgzNDI0LDI0OTUyNjE1M119
 -->
