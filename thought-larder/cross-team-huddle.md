@@ -2,7 +2,7 @@
 
 ## QOTD (optional)
 
-It's optional, but I like to kick the meeting off with something from [@EthicsInBricks](https://twitter.com/EthicsInBricks), [Programming Wisdom](https://twitter.com/CodeWisdom)
+It's optional, but I like to kick the meeting off with something from [@EthicsInBricks](https://twitter.com/EthicsInBricks) and [Programming Wisdom](https://twitter.com/CodeWisdom).
 
 ## Workstream Review (5m)
 
@@ -65,5 +65,6 @@ For every issue, copy & paste the following template:
     
 2.  Are there are messages that need broadcast outside this group? If so, to whom, and who is going to do it?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODI2Njk2NzYsNDQ3MDE5MjU3XX0=
+eyJoaXN0b3J5IjpbLTQ3MTI0MzE1NSwtMTM4MjY2OTY3Niw0ND
+cwMTkyNTddfQ==
 -->
