@@ -7,7 +7,7 @@ Something like the "elected civil servants" who govern the work. Blah blah.
 - A volunteer, [cooperative effort](https://en.wikipedia.org/wiki/Cooperative) to establish & maintain professional standards & expertise.
 - Persistent by nature, and design.
 - Cross-team, but discipline-specific.
-- Practice groups may do the work to accomplish a goal themselves (as time/commitments permit), and/or propose projects to leadership for prioritization.
+- Propose projects, to leadership for prioritization.
 
 ## Anti-Features
 
@@ -21,6 +21,6 @@ Something like the "elected civil servants" who govern the work. Blah blah.
 - React
 - 508
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjAwMDY2MTEsOTY4OTQ4MjYzLDI0OT
-UyNjE1M119
+eyJoaXN0b3J5IjpbMTI5NTI3ODY5NywtMTk2MDAwNjYxMSw5Nj
+g5NDgyNjMsMjQ5NTI2MTUzXX0=
 -->
