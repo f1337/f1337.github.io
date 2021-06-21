@@ -7,13 +7,12 @@ Note to self: Trying to split hairs betw different kinds of cooperative organiza
 - A volunteer, [cooperative effort](https://en.wikipedia.org/wiki/Cooperative) to establish & maintain professional standards & expertise.
 - Persistent by nature, and design.
 - Cross-team, but discipline-specific.
-- Not guilds. The word guild is overloaded with ancient connotations. Also we're not cargo-culting.
 - Practice groups may do the work to accomplish a goal themselves (as time/commitments permit), and/or propose projects to leadership for prioritization.
 
 ## Anti-Features
 
-- Not conse
-- Not guilds. The word guild is overloaded with connotations that contradict the intended pattern. Plus copying [Spotify](https://www.atlassian.com/agile/agile-at-scale/spotify) isn't agile, it's [cargo-culting](https://en.wikipedia.org/wiki/Cargo_cult). Spotify's "model" works for them because, bear with me, it's _modeled_ after Spotify's unique organizational needs.
+- 
+- Not guilds, or channels, or any other Spotify terms. Their jargon is overloaded with connotations that contradict the intended pattern. Plus copying [Spotify](https://www.atlassian.com/agile/agile-at-scale/spotify) isn't agile, it's [cargo-culting](https://en.wikipedia.org/wiki/Cargo_cult). Spotify's "model" works for them because, bear with me, it's _modeled_ after Spotify's unique organizational needs.
 
 ## Example practices
 
@@ -23,5 +22,5 @@ Note to self: Trying to split hairs betw different kinds of cooperative organiza
 - React
 - 508
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU0MDYxMTgyLDI0OTUyNjE1M119
+eyJoaXN0b3J5IjpbMjE0NTk5NDc2MiwyNDk1MjYxNTNdfQ==
 -->
