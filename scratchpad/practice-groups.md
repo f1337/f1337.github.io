@@ -1,6 +1,6 @@
 # Practice Groups
 
-
+Something like the "elected civil servants" who govern the work. Blah blah.
 
 ## Features
 
@@ -21,5 +21,6 @@
 - React
 - 508
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY4OTQ4MjYzLDI0OTUyNjE1M119
+eyJoaXN0b3J5IjpbLTE5NjAwMDY2MTEsOTY4OTQ4MjYzLDI0OT
+UyNjE1M119
 -->
