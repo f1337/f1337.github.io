@@ -1,5 +1,9 @@
 # Cross-Team Huddle
 
+## QOTD (optional)
+
+It's optional, but I like to kick the meeting off with some
+
 ## Workstream Review (5m)
 
 For each workstream, identify whether it is **On** track, **Off** track, **On Hold**, **Blocked**, or **Done**. *Resist the temptation for commentary:* none is necessary, there is no judgement.
@@ -61,5 +65,5 @@ For every issue, copy & paste the following template:
     
 2.  Are there are messages that need broadcast outside this group? If so, to whom, and who is going to do it?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU3ODkyOTQxLDQ0NzAxOTI1N119
+eyJoaXN0b3J5IjpbNzI2NTc1MDIwLDQ0NzAxOTI1N119
 -->
