@@ -8,6 +8,7 @@ Something like the "elected civil servants" who govern the work. Blah blah.
 - Persistent by nature, and design.
 - Cross-team, but discipline-specific.
 - Propose projects to leadership for prioritization.
+- Review prospective projects being considered for prioritization.
 
 ## Anti-Features
 
@@ -21,6 +22,6 @@ Something like the "elected civil servants" who govern the work. Blah blah.
 - React
 - 508
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNDE3NDYyNywtMTk2MDAwNjYxMSw5Nj
-g5NDgyNjMsMjQ5NTI2MTUzXX0=
+eyJoaXN0b3J5IjpbLTE3MjMzNTkzMDksLTE5NjAwMDY2MTEsOT
+Y4OTQ4MjYzLDI0OTUyNjE1M119
 -->
