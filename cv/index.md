@@ -25,7 +25,7 @@ My specialties include:
 Expertise
 ---------
 
-Ruby, Rails, React, Node.js, HTTP APIs, web application security, TDD/BDD, test automation, Docker, Objective-C, Apache, Nginx, MySQL, PostgreSQL, MSSQL
+Ruby, Rails, React, Node.js, HTTP APIs, web application security, TDD/BDD, test automation, Docker, Kubernetes, Objective-C, Apache, Nginx, MySQL, PostgreSQL, MSSQL
 
 Experience
 ----------
@@ -36,7 +36,13 @@ Experience
 
 *June 2020 - present*
 
-I am the engineering lead for over 70 engineers, designers, product managers, and writers working on the Veteran Services Platform. Together we build and maintain tools and infrastructure to support the hundreds of folks building apps for va.gov, and the over 9 million U.S. veterans they're built for.
+I am the engineering lead for over 100 software engineers, designers, analysts, & researchers working on the Veteran Services Platform. Together we build and maintain tools and infrastructure to support the hundreds of folks building apps for va.gov, and the over 9 million U.S. veterans they're built for.
+
+- Drove reduction of continuous-integration times from 90+ minutes to under 20 minutes, for the first time in over 3 years.
+- Led effort to ensure 100% of veteran-facing applications are reviewed for privacy, security, and infrastructure readiness, _before_ public launch.
+- Introduced mob/ensemble coding for unblocking & collaborating.
+- Worked closely with the infrastructure team to move VA.gov onto Kubernetes.
+- Building high-performance teams requires maintaining an environment where trust is high, fear is low, and there is safety to make mistakes. It's not easy, but we are succeeding!
 
 ### LendingHome
 
