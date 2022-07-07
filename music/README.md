@@ -11,7 +11,13 @@ _I am currently tinkering with [Sonic Pi](https://sonic-pi.net). Lately I've bee
 
 _I was in an indie rock band during the 1990s. We made some recordings, toured the continental U.S., charted AAA & college radio, had albums in Tower Records… and then our distributor went bankrupt (they were embezzling), which caused the label to go bankrupt, and eventually the band disbanded from the disappointment._
 
-<div style="float: right;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Music/y2003/m12/d11/h20/s05.neshiner.tif/300x300bb.webp" alt="album cover, woman lying down, face and legs obscured" />
+<div style="float: right;"><img src="https
+
+
+----------
+
+
+://is3-ssl.mzstatic.com/image/thumb/Music/y2003/m12/d11/h20/s05.neshiner.tif/300x300bb.webp" alt="album cover, woman lying down, face and legs obscured" />
 </div>
 
 ### shin jin rui (1998)
@@ -33,8 +39,8 @@ Our out of print EP, which is unavailable on streaming platforms. There are [use
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTY2MDcwNTIsMTU0ODM2NzU1LDI4Nz
-YwOTQ5NCw2NjAzMjcwNTksLTE2MjgzMTg2MDQsMjIxMzYyMDQx
-LDY3MzY2ODAwNCwxOTc5NDk5OTgwLDEwMjQ5MjM5MzMsMTAzMz
-IyNDkzMF19
+eyJoaXN0b3J5IjpbMTQ4NDYyNjA4OCwtMTgxNjYwNzA1MiwxNT
+Q4MzY3NTUsMjg3NjA5NDk0LDY2MDMyNzA1OSwtMTYyODMxODYw
+NCwyMjEzNjIwNDEsNjczNjY4MDA0LDE5Nzk0OTk5ODAsMTAyND
+kyMzkzMywxMDMzMjI0OTMwXX0=
 -->
