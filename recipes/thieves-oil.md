@@ -1,6 +1,6 @@
 # Homemade/DIY Thieves' Oil
 
-
+Apply to palms of hands, and/or bottoms of feet, as a topical preventative 
 Combine in a 30mL bottle:
 
     40 drops Cinnamon Leaf Essential Oil (bark oil is toxic)
@@ -14,5 +14,5 @@ Combine in a 30mL bottle:
 
 …then fill the bottle with a light carrier oil of your choosing
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwMzI2ODMzNl19
+eyJoaXN0b3J5IjpbLTE3NTU0MTcwMzVdfQ==
 -->
