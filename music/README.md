@@ -16,6 +16,7 @@ _I was in an indie rock band during the 1990s. We made some recordings, toured t
 
 ----------
 
+ - [ ] List item
 
 ://is3-ssl.mzstatic.com/image/thumb/Music/y2003/m12/d11/h20/s05.neshiner.tif/300x300bb.webp" alt="album cover, woman lying down, face and legs obscured" />
 </div>
@@ -39,8 +40,8 @@ Our out of print EP, which is unavailable on streaming platforms. There are [use
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4NDYyNjA4OCwtMTgxNjYwNzA1MiwxNT
-Q4MzY3NTUsMjg3NjA5NDk0LDY2MDMyNzA1OSwtMTYyODMxODYw
-NCwyMjEzNjIwNDEsNjczNjY4MDA0LDE5Nzk0OTk5ODAsMTAyND
-kyMzkzMywxMDMzMjI0OTMwXX0=
+eyJoaXN0b3J5IjpbMTYwMzIwNjUyNCwxNDg0NjI2MDg4LC0xOD
+E2NjA3MDUyLDE1NDgzNjc1NSwyODc2MDk0OTQsNjYwMzI3MDU5
+LC0xNjI4MzE4NjA0LDIyMTM2MjA0MSw2NzM2NjgwMDQsMTk3OT
+Q5OTk4MCwxMDI0OTIzOTMzLDEwMzMyMjQ5MzBdfQ==
 -->
