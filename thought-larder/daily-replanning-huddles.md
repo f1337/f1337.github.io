@@ -4,9 +4,8 @@
 - [Walking the board from right to left](https://www.zmarcusoft.net/2017/03/comments-on-board-practices-7.html), ask: What work we can ship today?
 - [Focus on the work, not the workers](https://www.marcusoft.net/2017/02/comments-on-board-practices-6.html).
 - Ad-hoc product re-planning is welcome, but should be documented, and reviewed, at the next formal planning meeting. Record and publish *all* priority changes for stakeholder review.
-- Q: How is this different from a Scrum "standup"? A: It comes with none of Scrum's baggage, allowing us to strictly define its parameters in 
-
+- Q: How is this different from a Scrum "standup"? A: It expressly rejects any inherited understanding of Scrum stand-ups, .
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkzMDI2OTY4LDEwMzcwNzQ1NTIsMTUwMj
-g4MjQ5OCwtMTQwMDA3ODIzOSwxOTQ0ODU0MTkwXX0=
+eyJoaXN0b3J5IjpbLTkwNzUzMTI3MSwxMDM3MDc0NTUyLDE1MD
+I4ODI0OTgsLTE0MDAwNzgyMzksMTk0NDg1NDE5MF19
 -->
