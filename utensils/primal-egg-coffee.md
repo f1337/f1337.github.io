@@ -1,6 +1,6 @@
 # Primal Egg Coffee
 
-My version of [Mark Sisson's Primal Egg Coffee](https://www.marksdailyapple.com/primal-egg-coffee/). I use 1 egg (versus 2 whole eggs o
+My version of [Mark Sisson's Primal Egg Coffee](https://www.marksdailyapple.com/primal-egg-coffee/). I use 1 egg (versus 2 whole eggs or 3 yolks), and add MCT creamer, and zero-calorie sweeteners.
 
 - 4g (1 teaspoon) granulated sugar.
 - 350ml (~12 ounces) [espresso](https://store.moorecoffee.com/805-espresso-blend-p348.aspx).
@@ -11,7 +11,7 @@ My version of [Mark Sisson's Primal Egg Coffee](https://www.marksdailyapple.com/
 - 8g (1 tablespoon) [MCT creamer](https://lairdsuperfood.com/products/superfood-creamer-original).
 - 1 large egg.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4OTI2NzY0NCw2MTE2ODgwMTEsLTEwOT
-U3MjE2OTEsMTg3MjYwNDUwMywxMDgyNzY3OTE4LC03MzM2Mjkz
-OTFdfQ==
+eyJoaXN0b3J5IjpbLTE3OTQ3MTMzMDUsNjExNjg4MDExLC0xMD
+k1NzIxNjkxLDE4NzI2MDQ1MDMsMTA4Mjc2NzkxOCwtNzMzNjI5
+MzkxXX0=
 -->
