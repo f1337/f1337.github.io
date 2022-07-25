@@ -1,4 +1,4 @@
-my take on Mark Sisson's Primal Egg Coffee. more coming.
+My take on [Mark Sisson's Primal Egg Coffee](https://www.marksdailyapple.com/primal-egg-coffee/). WIP.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3OTg4MTM2Nl19
+eyJoaXN0b3J5IjpbLTczMzYyOTM5MV19
 -->
