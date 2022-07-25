@@ -8,8 +8,9 @@ My take on [Mark Sisson's Primal Egg Coffee](https://www.marksdailyapple.com/pri
 - 2g (2 packets) sucralose (splenda) sweetener
 - 2 dashes of ground cinnamon
 - 2 pinches of sea salt
-- 8g (1 tablespoon) laird superfood creamer
+- 8g (1 tablespoon) Laird Superfood Creamer
 - 1 large egg
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4Mjc2NzkxOCwtNzMzNjI5MzkxXX0=
+eyJoaXN0b3J5IjpbLTYzMjU0Njg2NiwxMDgyNzY3OTE4LC03Mz
+M2MjkzOTFdfQ==
 -->
