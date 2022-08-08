@@ -1,12 +1,13 @@
-- [ZSA Moonlander Keyboard](https://www.zsa.io/moonlander/)
+- [ZSA Moonlander keyboard](https://www.zsa.io/moonlander/)
 - [X-Keys L-Trac Blue Trackball](https://xkeys.com/l-tracblu.html)
 - [UPLIFT Standing Desk](https://www.upliftdesk.com/uplift-v2-standing-desk-v2-or-v2-commercial/)
-- dx racer chair
+- [DX Racer Racing Series gaming chair](https://www.dxracer.com/collections/gaming-chairs/formula-and-racing-series/oh-rv131-nw)
 - charging station thingy
 - monitor
 - webcam
 - amplifi router?
 - pi.hole?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwMjczMjY5MCwtMTEyMDY3OTQwNl19
+eyJoaXN0b3J5IjpbLTQzNDI4NTk3MiwtNzAyNzMyNjkwLC0xMT
+IwNjc5NDA2XX0=
 -->
