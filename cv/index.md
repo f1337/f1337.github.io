@@ -31,13 +31,19 @@ Ruby, Rails, React, Node.js, HTTP APIs, web application security, TDD/BDD, test 
 Experience
 ----------
 
+### Mode
+
+**Senior Developer Experience Engineer**
+
+*March 2021 - present*
+
 ### Oddball
 
 **Engineering Lead, Veterans Services Platform, va.gov**
 
-*June 2020 - present*
+*June 2020 - February 2021*
 
-I am the engineering lead for over 100 software engineers, designers, analysts, & researchers working on the Veteran Services Platform. Together we build and maintain tools and infrastructure to support the hundreds of folks building apps for va.gov, and the over 9 million U.S. veterans they're built for.
+I was the engineering lead for over 100 software engineers, designers, analysts, & researchers working on the Veteran Services Platform. Together we built and maintained tools and infrastructure to support the hundreds of folks building apps for va.gov, and the over 9 million U.S. veterans they're built for.
 
 - Drove reduction of continuous-integration times from 90+ minutes to under 20 minutes, for the first time in over 3 years.
 - Led effort to ensure 100% of veteran-facing applications are reviewed for privacy, security, and infrastructure readiness, _before_ public launch.
