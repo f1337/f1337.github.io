@@ -6,4 +6,5 @@ In my teens, and early 20s, I would make mixtapes for friends. I fell out of the
 
 - [All](https://music.apple.com/us/playlist/all/pl.u-ydNAu9BZJb). Prompt: Songs with "all" in their titles. WIP: the order doesn't flow the way i want it to.
 - [Chugga Chugga](https://music.apple.com/us/playlist/chugga-chugga/pl.u-Xa60iRBgxX). Prompt: Songs whose rhythm section reminds me of a steam locomotive.
+- [Harder They Fall](https://music.apple.com/us/playlist/harder-they-fall/pl.u-EBbWt5vqyV). In order of appearance in the film. Includes tracks missing from official soundtrack.
 - [Xzibit x DMX](https://music.apple.com/us/playlist/xzibit-x-dmx/pl.u-z0RPCkp8vG). Prompt: The letter X.
