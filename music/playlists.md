@@ -12,7 +12,8 @@ In my teens, and early 20s, I would make mixtapes for friends. I fell out of the
 
 <article style="width: 42vw; height: 100%; float: left;">
 
-  ##   [Chugga Chugga](https://music.apple.com/us/playlist/chugga-chugga/pl.u-Xa60iRBgxX)
+  [Chugga Chugga](https://music.apple.com/us/playlist/chugga-chugga/pl.u-Xa60iRBgxX)
+  ===============
 
   <img src="https://is3-ssl.mzstatic.com/image/thumb/rLnoIBvsiQJiT_IJy-vbHg/270x270cc.webp" alt="collage of album covers, selected from the playlist" width="80" height="80" style="float: left;">
 
