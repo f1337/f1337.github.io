@@ -1,11 +1,11 @@
 # albums
 
-_I was in an indie rock band during the 1990s. We made some recordings, toured the continental U.S., charted AAA & college radio, had albums in Tower Records… and then our distributor went bankrupt (they were embezzling), which caused the label to go bankrupt, and eventually the band disbanded from the disappointment._
+_I was in an indie rock band during the late 1990s. We made some recordings, toured the continental U.S., charted AAA & college radio, had albums in Tower Records… and then our distributor went bankrupt (they were embezzling), which caused the label to go bankrupt, and eventually the band disbanded from the disappointment._
 
 ## shin jin rui (1998)
 
 <div style="float: right;">
-  <img src="https://is3-ssl.mzstatic.com/image/thumb/Music/y2003/m12/d11/h20/s05.neshiner.tif/300x300bb.webp" title="Shin Jin Rui" alt="album cover, woman lying down, face and legs obscured" width="100%" height="100%" />
+  <img src="https://is3-ssl.mzstatic.com/image/thumb/Music/y2003/m12/d11/h20/s05.neshiner.tif/200x200bb.webp" title="Shin Jin Rui" alt="album cover, woman lying down, face and legs obscured" />
 </div>
 
 Our full-length album. Available to stream on the following platforms, and more:
