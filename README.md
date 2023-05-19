@@ -10,8 +10,3 @@ Things that I have written which may interest you:
 - [Music](music/README): I made some albums while in an indie rock band during the 1990s. More recently I've been making music with Sonic Pi.
 - Perhaps even my [scratchpad of less organized thoughts](scratchpad/README.md).
 - Credentials: [resume/CV](cv/), [patents](cv/#patents), [github](https://github.com/f1337), [linkedin](https://linkedin.com/in/f1337).
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzY0NTc3NDYsLTQxNTY2NzA0NSw4Mz
-IxODk1OTQsMTI4Nzc1MjY0MCwzMzEzMjkzMl19
--->

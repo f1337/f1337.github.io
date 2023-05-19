@@ -1,9 +1,11 @@
-# music: albums
+# albums
 
 _I was in an indie rock band during the 1990s. We made some recordings, toured the continental U.S., charted AAA & college radio, had albums in Tower Records… and then our distributor went bankrupt (they were embezzling), which caused the label to go bankrupt, and eventually the band disbanded from the disappointment._
 
 
-<div style="float: right;">![album cover, woman lying down, face and legs obscured](https://is3-ssl.mzstatic.com/image/thumb/Music/y2003/m12/d11/h20/s05.neshiner.tif/300x300bb.webp "Shin Jin Rui")
+<div style="float: right;">
+
+![album cover, woman lying down, face and legs obscured](https://is3-ssl.mzstatic.com/image/thumb/Music/y2003/m12/d11/h20/s05.neshiner.tif/300x300bb.webp "Shin Jin Rui")
 </div>
 
 ## shin jin rui (1998)
