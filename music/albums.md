@@ -4,8 +4,7 @@ _I was in an indie rock band during the 1990s. We made some recordings, toured t
 
 
 <div style="float: right;">
-
-![album cover, woman lying down, face and legs obscured](https://is3-ssl.mzstatic.com/image/thumb/Music/y2003/m12/d11/h20/s05.neshiner.tif/300x300bb.webp "Shin Jin Rui")
+  <img src="https://is3-ssl.mzstatic.com/image/thumb/Music/y2003/m12/d11/h20/s05.neshiner.tif/300x300bb.webp" title="Shin Jin Rui" alt="album cover, woman lying down, face and legs obscured" />
 </div>
 
 ## shin jin rui (1998)
