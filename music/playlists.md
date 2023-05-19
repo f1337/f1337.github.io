@@ -10,6 +10,9 @@ In my teens, and early 20s, I would make mixtapes for friends. I fell out of the
   Prompt: Songs with "all" in their titles. WIP: the order doesn't flow the way i want it to.
 </article>
 
+## [Harder They Fall](https://music.apple.com/us/playlist/harder-they-fall/pl.u-EBbWt5vqyV)
+
+
 <article style="width: 42vw; height: 100%; float: left;">
 
   [Chugga Chugga](https://music.apple.com/us/playlist/chugga-chugga/pl.u-Xa60iRBgxX)
