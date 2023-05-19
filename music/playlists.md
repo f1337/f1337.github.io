@@ -5,7 +5,7 @@ In my teens, and early 20s, I would make mixtapes for friends. I fell out of the
 <article style="width: 42vw; height: 100%; float: left;">
   <img src="https://is2-ssl.mzstatic.com/image/thumb/AtkG6eVHgiJ3EH3wSYYPQg/270x270cc.webp" alt="collage of album covers, selected from the playlist" width="80" height="80" style="float: left;">
 
-  ## [All](https://music.apple.com/us/playlist/all/pl.u-ydNAu9BZJb)
+  ## All {https://music.apple.com/us/playlist/all/pl.u-ydNAu9BZJb}
 
   Prompt: Songs with "all" in their titles. WIP: the order doesn't flow the way i want it to.
 </article>
