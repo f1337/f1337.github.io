@@ -1,9 +1,8 @@
 remote_theme: rundocs/jekyll-rtd-theme
 
+title: f1337.dev
+
 plugins:
   - jemoji
   - jekyll-avatar
   - jekyll-mentions
-
-jekyll-mentions:
-  base_url: https://twitter.com
