@@ -23,7 +23,7 @@ Prompt: Songs whose rhythm section reminds me of a steam locomotive.
 
 <article style="width: 42vw; height: 100%; float: left;"  markdown="1">
 
-  ## [Harder They Fall](https://music.apple.com/us/playlist/harder-they-fall/pl.u-EBbWt5vqyV)
+## [Harder They Fall](https://music.apple.com/us/playlist/harder-they-fall/pl.u-EBbWt5vqyV)
 
   <img src="https://is2-ssl.mzstatic.com/image/thumb/Wqab6dKq1CVbcKrPse_1aA/270x270cc.webp" alt="collage of album covers, selected from the playlist" width="120" height="120" style="float: left;">
 
@@ -32,7 +32,7 @@ Prompt: Songs whose rhythm section reminds me of a steam locomotive.
 
 <article style="width: 42vw; height: 100%; float: left;" markdown="1">
 
-  ## [Xzibit x DMX](https://music.apple.com/us/playlist/xzibit-x-dmx/pl.u-z0RPCkp8vG)
+## [Xzibit x DMX](https://music.apple.com/us/playlist/xzibit-x-dmx/pl.u-z0RPCkp8vG)
 
   <img src="https://is5-ssl.mzstatic.com/image/thumb/jb_9MI4zuQroVVZ1Xp0pSA/270x270cc.webp" alt="collage of album covers, selected from the playlist" width="120" height="120" style="float: left;">
 
