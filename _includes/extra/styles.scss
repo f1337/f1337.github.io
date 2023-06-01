@@ -1,11 +1,13 @@
 article.playlist {
   float: left;
   height: 100%;
-  width: 20vw;
+  max-width: 425px;
+  min-width: 370px;
+  margin: 1em;
 
   img {
     float: right;
-    height: 200px;
-    width: 200px;
+    margin-left: 1em;
+    width: 50%;
   }
 }
