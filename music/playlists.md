@@ -20,7 +20,7 @@ Prompt: Songs with "all" in their titles. There is a narrative order to the song
 Prompt: Songs whose rhythm section reminds me of a steam locomotive.
 </article>
 
-<article style="width: 42vw; height: 100%; float: left;"  markdown="1">
+<article class="playlist" markdown="1">
 
 ## [Harder They Fall](https://music.apple.com/us/playlist/harder-they-fall/pl.u-EBbWt5vqyV)
 
@@ -29,7 +29,7 @@ Prompt: Songs whose rhythm section reminds me of a steam locomotive.
 In order of appearance in the film. Includes tracks missing from official soundtrack.
 </article>
 
-<article style="width: 42vw; height: 100%; float: left;" markdown="1">
+<article class="playlist" markdown="1">
 
 ## [Xzibit x DMX](https://music.apple.com/us/playlist/xzibit-x-dmx/pl.u-z0RPCkp8vG)
 
