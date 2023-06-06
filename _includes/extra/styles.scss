@@ -1,11 +1,17 @@
+section.playlists {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1em;
+  width: inherit;
+}
 article.playlist {
-  float: left;
+  flex: 1;
   height: 100%;
-  max-width: 425px;
   min-width: 370px;
-  margin: 1em;
+  margin: 0;
 
   img {
+    border: 1px solid #eaecef;
     float: right;
     margin-left: 1em;
     width: 50%;

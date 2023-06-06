@@ -2,6 +2,7 @@
 
 In my teens, and early 20s, I would make mixtapes for friends. I fell out of the habit when I went digital with music, and my friends were still rocking cassettes: Early mp3s sounded like garbage when transferred to tape. I've recently started making playlists, to satisfy a similar creative desire. Unless otherwise stated, I loosely apply the constraint: "The song is in my library, or if it is not already there, it should be". Without further ado…
 
+<section class="playlists">
 <article class="playlist" markdown="1">
 
 ## [All](https://music.apple.com/us/playlist/all/pl.u-ydNAu9BZJb)
@@ -37,3 +38,4 @@ In order of appearance in the film. Includes tracks missing from official soundt
 
 Prompt: The letter X.
 </article>
+</section>
