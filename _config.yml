@@ -1,7 +1,5 @@
 remote_theme: rundocs/jekyll-rtd-theme
 
-edit: false
-
 plugins:
   - jemoji
   - jekyll-avatar

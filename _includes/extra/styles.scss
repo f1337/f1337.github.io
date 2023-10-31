@@ -4,6 +4,7 @@ section.playlists {
   gap: 1em;
   width: inherit;
 }
+
 article.playlist {
   flex: 1;
   height: 100%;
@@ -15,5 +16,16 @@ article.playlist {
     float: right;
     margin-left: 1em;
     width: 50%;
+  }
+}
+
+.content {
+
+  .edit {
+    display: none;
+  }
+
+  .generator {
+    display: none;
   }
 }
