@@ -34,7 +34,7 @@ Experience
 
 **Senior Developer Experience Engineer**
 
-*March 2021 - present*
+*March 2022 - present*
 
 I started as a Senior Development Experience Engineer, on the Developer Experience team. That team was disbanded after a RIF, and I was moved onto the Infrastructure team.
 
@@ -48,7 +48,7 @@ I started as a Senior Development Experience Engineer, on the Developer Experien
 
 **Engineering Lead, Veterans Services Platform, va.gov**
 
-*June 2020 - February 2021*
+*June 2020 - February 2022*
 
 Led over 100 software engineers, designers, analysts, & researchers for VA.gov.
 
