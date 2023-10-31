@@ -57,7 +57,7 @@ Led over 100 software engineers, designers, analysts, & researchers for VA.gov.
 - Introduced mob/ensemble coding for unblocking & collaborating.
 - Worked closely with the infrastructure team to move VA.gov onto Kubernetes.
 
-### Kiavi (then LendingHome)
+### Kiavi (née LendingHome)
 
 **Staff Software Engineer**
 
