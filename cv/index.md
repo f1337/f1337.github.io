@@ -91,7 +91,7 @@ Led over 100 software engineers, designers, analysts, & researchers for VA.gov.
 - Automated development-environment management using Vagrant, Chef, Puppet and Docker; resulting in a reduction in initial developer ramp-up time per-project by 90%.
 - Introduced pair-programming, code-review, test-driven-development, and continuous-integration processes.
 
-[![BOLT](http://resume.f1337.us/portfolio/BOLT.png "BOLT")](http://resume.f1337.us/portfolio/BOLT.pdf)
+<!-- [![BOLT](http://resume.f1337.us/portfolio/BOLT.png "BOLT")](http://resume.f1337.us/portfolio/BOLT.pdf) -->
 
 ### NCC Group Domain Services (née Artemis Internet)
 **Senior Software Engineer**
@@ -129,7 +129,7 @@ Led over 100 software engineers, designers, analysts, & researchers for VA.gov.
 - Created DCP's high-performance, PCI/DSS-Level-1-compliant session proxying API and architecture.
 - Led company-wide adoption of agile practices. Developed courses and training materials, and spearheaded mentorship and promotion.
 
-[![Distributed Commerce Platform (formerly Off The Wall)](http://resume.f1337.us/portfolio/DCP-OTW.png "Distributed Commerce Platform (formerly Off The Wall)")](http://resume.f1337.us/portfolio/DCP-OTW.pdf)
+<!-- [![Distributed Commerce Platform (formerly Off The Wall)](http://resume.f1337.us/portfolio/DCP-OTW.png "Distributed Commerce Platform (formerly Off The Wall)")](http://resume.f1337.us/portfolio/DCP-OTW.pdf) -->
 
 Patents
 -------
