@@ -1,7 +1,7 @@
 ---
 title: Resume
 ---
-Michael R. Fleet
+Michael L. Fleet
 ===========================================
 
 - [f1337.dev](https://f1337.dev)
@@ -20,7 +20,6 @@ My specialties include:
 - Engineering high-performance, high-availability systems architectures for scaling web applications.
 - Designing cross platform web application architectures for desktop, browsers, and native mobile.
 - Encouraging use of agile/XP practices, esp. BDD/TDD, code reviews, and pair/mob-programming.
-- Building and nurturing environments which encourage innovation.
 
 
 Expertise
@@ -31,11 +30,19 @@ Ruby, Rails, React, Node.js, HTTP APIs, web application security, TDD/BDD, test 
 Experience
 ----------
 
-### Mode
+### Mode (now ThoughtSpot)
 
 **Senior Developer Experience Engineer**
 
 *March 2021 - present*
+
+I started as a Senior Development Experience Engineer, on the Developer Experience team. That team was disbanded after a RIF, and I was moved onto the Infrastructure team.
+
+- Primary engineer making our Rails monolith work with Amazon Elastic Container Service (ECS).
+- Migrated the Rails monolith asset publishing to CDN (Fastly + S3).
+- Migrated dozens of custom Nginx rules to Fastly, using VCL.
+- Introduced containerized local development, for 3 monolith stacks (Rails, Java, Go).
+- Introduced automated, versioned container builds to CI, published to Elastic Container Registry (ECR). Container images are scanned for vulnerabilities, and a SBOM is generated.
 
 ### Oddball
 
@@ -43,27 +50,24 @@ Experience
 
 *June 2020 - February 2021*
 
-I was the engineering lead for over 100 software engineers, designers, analysts, & researchers working on the Veteran Services Platform. Together we built and maintained tools and infrastructure to support the hundreds of folks building apps for va.gov, and the over 9 million U.S. veterans they're built for.
+Led over 100 software engineers, designers, analysts, & researchers for VA.gov.
 
 - Drove reduction of continuous-integration times from 90+ minutes to under 20 minutes, for the first time in over 3 years.
 - Led effort to ensure 100% of veteran-facing applications are reviewed for privacy, security, and infrastructure readiness, _before_ public launch.
 - Introduced mob/ensemble coding for unblocking & collaborating.
 - Worked closely with the infrastructure team to move VA.gov onto Kubernetes.
-- Building high-performance teams requires maintaining an environment where trust is high, fear is low, and there is safety to make mistakes. It's not easy, but we are succeeding!
 
-### LendingHome
+### Kiavi (then LendingHome)
 
 **Staff Software Engineer**
 
 *October 2018 - May 2020*
 
-- Led the architecture, implementation, and delivery of LendingHome's first automated-underwriting solution.
+- Led the architecture, implementation, and delivery of Kiavi's first automated-underwriting solution.
 - Introduced structured logging, across multiple stacks.
-- Championed changes to the production-support rotation which improved our feedback loop with customers.
-- Created rapid-development & testing tools, including code generators, automated and manual testing helpers, and event-sourcing data migrations.
-- Led Rails upgrades from 4.x to 5.x, across multiple stacks.
-- Contributed to Ruby 2.5 upgrades, across multiple stacks.
-- Fixed application security issues raised by pen testers.
+- Championed changes to the production-support rotation, improving our feedback loop with customers.
+- Created rapid-development/testing tools, including code generators, automated and manual testing helpers, and event-sourcing data migrations.
+- Led Rails upgrades from 4.x to latest 5.x, across multiple stacks. Contributed to Ruby 2.5 upgrades, across multiple stacks.
 
 ### Panda Strike
 
@@ -75,7 +79,7 @@ I was the engineering lead for over 100 software engineers, designers, analysts,
 - Serverless application development with AWS Lambda & Cloud Formation, and Web Components.
 - Performance testing and visualizations using Node.js, Elasticsearch, fluentd, and Kibana.
 - Docker-ized all the development environments: Rails, Node.js, PostgresSQL, MongoDB, Nginx, etc.
-- Various features and bug-fixes for Panda Strike's open source projects, including Fairmont, Haiku9, Panda-9000, Panda-Sky and more. CoffeeScript, Node.js, npm.
+- Various features and bug-fixes for Panda Strike’s open source projects, including Fairmont, Haiku9, Panda-9000, Panda-Sky and more. CoffeeScript, Node.js, npm.
 
 ### Amplifi Commerce
 **Software Architect**
@@ -83,12 +87,9 @@ I was the engineering lead for over 100 software engineers, designers, analysts,
 *October 2014 - March 2016*
 
 - Principal architect for an in-house, rapid-development platform for Oracle Commerce, which reduced the developer hours required for implementations by 50%.
-- Used linux containers (Docker) to isolate and scale each service in the Oracle Commerce application stack, both on bare metal and cloud servers.
+- Used Docker to isolate and scale each service in the Oracle Commerce stack, on bare metal and cloud servers.
 - Automated development-environment management using Vagrant, Chef, Puppet and Docker; resulting in a reduction in initial developer ramp-up time per-project by 90%.
-- Developed elastic-scaling solutions for Oracle Commerce using docker-swarm.
-- Created tools to automate repetitive development and deployment tasks.
-- Automated UI integration with server-side JSP code using grunt, assemble.io and Handlebars.
-- Introduced agile project management, pair-programming, code-review, test-driven-development, continuous-integration and continuous-delivery processes using JIRA, Screenhero, Bitbucket pull-requests, RSpec/Groovy/Jasmine and Jenkins.
+- Introduced pair-programming, code-review, test-driven-development, and continuous-integration processes.
 
 [![BOLT](http://resume.f1337.us/portfolio/BOLT.png "BOLT")](http://resume.f1337.us/portfolio/BOLT.pdf)
 
@@ -115,11 +116,9 @@ I was the engineering lead for over 100 software engineers, designers, analysts,
 
 *April 2011 - June 2013*
 
-- Developed a cross-platform data visualization library using C/C++, with native interfaces for iOS (Objective-C) and Android (NDK, Java/JNI).
+- Developed a cross-platform data visualization library using C/C++, with native interfaces for iOS (Objective-C), and Android (NDK, Java/JNI).
 - Designed a declarative user-interface architecture for producing native user experiences with the flexibility of web applications to deliver immediate updates and dynamic experiences.
-- Co-authored and co-researched an internal white-paper evaluating native, web, "hybrid," and cross-platform mobile application development strategies.
-- Key contributor to the Chase and J.P. Morgan iOS, Android and mobile web banking applications.
-- Certified Mobile Application Security Champion.
+- Certified Mobile Application Security Champion for iOS.
 
 ### Resource Interactive (now IBM iX)
 **Application Architect**
@@ -127,11 +126,8 @@ I was the engineering lead for over 100 software engineers, designers, analysts,
 *March 2010 - April 2011*
 
 - Led development of Resource's Distributed Commerce Platform (formerly known as "Off the Wall") from prototype to patented product platform.
-- Created DCP's high-performance, PCI/DSS-Level-1-compliant session proxying API and architecture built on CentOS, Apache, Zend Framework and MySQL.
-- Responsible for the ongoing mentorship of the company's bright young stars in ResourceLAB.
-- Led company-wide adoption of Scrum, ResourceLAB adoption of XP and BDD/TDD. Developed courses and training materials, and spearheaded mentorship and promotion.
-- Played a vital role in the launch and success of RI:U, an internal continuing-education initiative. Led brown-bag introductions to Scrum, JIRA, BDD/TDD, Flash vs. HTML5/CSS3.
-- Received the first "XLNT: Never Been Done Before" award ever, for inventing the Distributed Commerce Platform.
+- Created DCP's high-performance, PCI/DSS-Level-1-compliant session proxying API and architecture.
+- Led company-wide adoption of agile practices. Developed courses and training materials, and spearheaded mentorship and promotion.
 
 [![Distributed Commerce Platform (formerly Off The Wall)](http://resume.f1337.us/portfolio/DCP-OTW.png "Distributed Commerce Platform (formerly Off The Wall)")](http://resume.f1337.us/portfolio/DCP-OTW.pdf)
 
