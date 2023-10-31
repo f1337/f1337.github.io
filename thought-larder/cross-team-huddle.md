@@ -40,7 +40,7 @@ Have you made an organizational/process decision? Write a Decision Document.
 
 ## Customer & Team Headlines (5m)
 
-Do we have any customer and/or team headlines? Do we have any [intentions to radiate](../zzz/radiate-intent.md)?
+Do we have any customer and/or team headlines? Do we have any [intentions to radiate](../scratchpad/radiate-intent.md)?
 
 -
 

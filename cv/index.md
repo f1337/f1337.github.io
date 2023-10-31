@@ -1,4 +1,5 @@
 ---
+sort: 1
 title: Resume
 ---
 Michael L. Fleet
